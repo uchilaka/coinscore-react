@@ -1,590 +1,602 @@
 [
-    {
-        "id": 1,
-        "team_market_percent": "5.0",
-        "ico_date": "2017-02-10",
-        "vertical": "Utilities",
-        "team": "Doge2.0",
-        "team_rating": 5,
-        "needs_blockchain": true,
-        "countries_ico_available": "USA, Canada",
-        "scam_sale_probability": "1.0",
-        "smart_money_investors": "No",
-        "mining_difficulty": null,
-        "arbitrage_activity": null,
-        "created_at": "2015-02-10T20:58:21.000Z",
-        "updated_at": "2018-02-10T20:58:21.000Z",
-        "name": "DogeCoin",
-        "json_data": null,
-        "link_to_wp": "www.dogecoin.com",
-        "number_of_coins_issued": "113146970858",
-        "coin_release_date": null,
-        "whitepaper_link": "www.dogecoin.com",
-        "coins_issued": "113146970858",
-        "coin_image": null,
-        "logo": null,
-        "stats": [
-            {
-                "time": 1483315200000,
-                "amount": 78531.02
-            },
-            {
-                "time": 1483401600000,
-                "amount": 27910.11
-            },
-            {
-                "time": 1483488000000,
-                "amount": 43129.12
-            },
-            {
-                "time": 1483574400000,
-                "amount": 113108
-            },
-            {
-                "time": 1483660800000,
-                "amount": 128641.99
-            },
-            {
-                "time": 1483747200000,
-                "amount": 17229.41
-            },
-            {
-                "time": 1483833600000,
-                "amount": 108810.16
-            },
-            {
-                "time": 1483920000000,
-                "amount": 178176.39
-            },
-            {
-                "time": 1484006400000,
-                "amount": 108439.57
-            },
-            {
-                "time": 1484092800000,
-                "amount": 38306.7
-            },
-            {
-                "time": 1484179200000,
-                "amount": 42228.95
-            },
-            {
-                "time": 1484265600000,
-                "amount": 128260.59
-            },
-            {
-                "time": 1484352000000,
-                "amount": 81123.83
-            },
-            {
-                "time": 1484438400000,
-                "amount": 105188.35
-            },
-            {
-                "time": 1484524800000,
-                "amount": 167940.22
-            },
-            {
-                "time": 1484611200000,
-                "amount": 99089.41
-            },
-            {
-                "time": 1484697600000,
-                "amount": 156107.97
-            },
-            {
-                "time": 1484784000000,
-                "amount": 13621.09
-            },
-            {
-                "time": 1484870400000,
-                "amount": 133116.62
-            },
-            {
-                "time": 1484956800000,
-                "amount": 16077.81
-            },
-            {
-                "time": 1485043200000,
-                "amount": 153229.63
-            },
-            {
-                "time": 1485129600000,
-                "amount": 167968.43
-            },
-            {
-                "time": 1485216000000,
-                "amount": 84081
-            },
-            {
-                "time": 1485302400000,
-                "amount": 52287.59
-            },
-            {
-                "time": 1485388800000,
-                "amount": 192016.92
-            },
-            {
-                "time": 1485475200000,
-                "amount": 126894.57
-            },
-            {
-                "time": 1485561600000,
-                "amount": 159867.89
-            },
-            {
-                "time": 1485648000000,
-                "amount": 24848.13
-            },
-            {
-                "time": 1485734400000,
-                "amount": 49436.35
-            },
-            {
-                "time": 1485820800000,
-                "amount": 98975.69
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "team_market_percent": "0.21",
-        "ico_date": "2017-01-11",
-        "vertical": "Animals",
-        "team": "Catturri",
-        "team_rating": 1,
-        "needs_blockchain": true,
-        "countries_ico_available": "China, South Korea",
-        "scam_sale_probability": "80.0",
-        "smart_money_investors": "No",
-        "mining_difficulty": null,
-        "arbitrage_activity": null,
-        "created_at": "2015-12-10T20:18:21.000Z",
-        "updated_at": "2018-02-10T20:58:21.000Z",
-        "name": "Cat Coins",
-        "json_data": null,
-        "link_to_wp": "www.dogecoin.com",
-        "number_of_coins_issued": "113146970858",
-        "coin_release_date": null,
-        "whitepaper_link": "www.catcoins.co",
-        "coins_issued": "9000000",
-        "coin_image": null,
-        "logo": null,
-        "stats": [
-            {
-                "time": 1483315200000,
-                "amount": 89650.45
-            },
-            {
-                "time": 1483401600000,
-                "amount": 112450
-            },
-            {
-                "time": 1483488000000,
-                "amount": 190965.05
-            },
-            {
-                "time": 1483574400000,
-                "amount": 91153.78
-            },
-            {
-                "time": 1483660800000,
-                "amount": 153145.38
-            },
-            {
-                "time": 1483747200000,
-                "amount": 112035.88
-            },
-            {
-                "time": 1483833600000,
-                "amount": 36148.28
-            },
-            {
-                "time": 1483920000000,
-                "amount": 138791.85
-            },
-            {
-                "time": 1484006400000,
-                "amount": 48441.92
-            },
-            {
-                "time": 1484092800000,
-                "amount": 194670.15
-            },
-            {
-                "time": 1484179200000,
-                "amount": 75864.99
-            },
-            {
-                "time": 1484265600000,
-                "amount": 185651.51
-            },
-            {
-                "time": 1484352000000,
-                "amount": 136373.23
-            },
-            {
-                "time": 1484438400000,
-                "amount": 35452.08
-            },
-            {
-                "time": 1484524800000,
-                "amount": 102876.63
-            },
-            {
-                "time": 1484611200000,
-                "amount": 7575.16
-            },
-            {
-                "time": 1484697600000,
-                "amount": 124802.73
-            },
-            {
-                "time": 1484784000000,
-                "amount": 25593.46
-            },
-            {
-                "time": 1484870400000,
-                "amount": 7504.03
-            },
-            {
-                "time": 1484956800000,
-                "amount": 144550.25
-            },
-            {
-                "time": 1485043200000,
-                "amount": 150768.2
-            },
-            {
-                "time": 1485129600000,
-                "amount": 10502.09
-            },
-            {
-                "time": 1485216000000,
-                "amount": 189354.55
-            },
-            {
-                "time": 1485302400000,
-                "amount": 108661.95
-            },
-            {
-                "time": 1485388800000,
-                "amount": 173877.16
-            },
-            {
-                "time": 1485475200000,
-                "amount": 136047.53
-            },
-            {
-                "time": 1485561600000,
-                "amount": 105178.26
-            },
-            {
-                "time": 1485648000000,
-                "amount": 68152.22
-            },
-            {
-                "time": 1485734400000,
-                "amount": 125725.69
-            },
-            {
-                "time": 1485820800000,
-                "amount": 157559.38
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "team_market_percent": "5.0",
-        "ico_date": "2017-02-10",
-        "vertical": "Utilities",
-        "team": "Doge2.0",
-        "team_rating": 5,
-        "needs_blockchain": true,
-        "countries_ico_available": "USA, Canada",
-        "scam_sale_probability": "1.0",
-        "smart_money_investors": "No",
-        "mining_difficulty": null,
-        "arbitrage_activity": null,
-        "created_at": "2015-02-10T20:58:21.000Z",
-        "updated_at": "2018-02-10T20:58:21.000Z",
-        "name": "DogeCoin",
-        "json_data": null,
-        "link_to_wp": "www.dogecoin.com",
-        "number_of_coins_issued": "113146970858",
-        "coin_release_date": null,
-        "whitepaper_link": "www.dogecoin.com",
-        "coins_issued": "113146970858",
-        "coin_image": null,
-        "logo": null,
-        "stats": [
-            {
-                "time": 1483315200000,
-                "amount": 71168.71
-            },
-            {
-                "time": 1483401600000,
-                "amount": 121420.3
-            },
-            {
-                "time": 1483488000000,
-                "amount": 88055.23
-            },
-            {
-                "time": 1483574400000,
-                "amount": 88669.05
-            },
-            {
-                "time": 1483660800000,
-                "amount": 24431.05
-            },
-            {
-                "time": 1483747200000,
-                "amount": 78376.05
-            },
-            {
-                "time": 1483833600000,
-                "amount": 125951.38
-            },
-            {
-                "time": 1483920000000,
-                "amount": 124367.66
-            },
-            {
-                "time": 1484006400000,
-                "amount": 146552.26
-            },
-            {
-                "time": 1484092800000,
-                "amount": 196248.83
-            },
-            {
-                "time": 1484179200000,
-                "amount": 32317.38
-            },
-            {
-                "time": 1484265600000,
-                "amount": 68443.93
-            },
-            {
-                "time": 1484352000000,
-                "amount": 6719.81
-            },
-            {
-                "time": 1484438400000,
-                "amount": 105424.81
-            },
-            {
-                "time": 1484524800000,
-                "amount": 47136.93
-            },
-            {
-                "time": 1484611200000,
-                "amount": 199658.66
-            },
-            {
-                "time": 1484697600000,
-                "amount": 26899.09
-            },
-            {
-                "time": 1484784000000,
-                "amount": 178803.7
-            },
-            {
-                "time": 1484870400000,
-                "amount": 197377.75
-            },
-            {
-                "time": 1484956800000,
-                "amount": 177858.74
-            },
-            {
-                "time": 1485043200000,
-                "amount": 73110.42
-            },
-            {
-                "time": 1485129600000,
-                "amount": 34770.53
-            },
-            {
-                "time": 1485216000000,
-                "amount": 167163.87
-            },
-            {
-                "time": 1485302400000,
-                "amount": 196248.29
-            },
-            {
-                "time": 1485388800000,
-                "amount": 56726.41
-            },
-            {
-                "time": 1485475200000,
-                "amount": 199324.05
-            },
-            {
-                "time": 1485561600000,
-                "amount": 82349.76
-            },
-            {
-                "time": 1485648000000,
-                "amount": 170476.33
-            },
-            {
-                "time": 1485734400000,
-                "amount": 89343.64
-            },
-            {
-                "time": 1485820800000,
-                "amount": 1057.02
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "team_market_percent": "0.21",
-        "ico_date": "2017-01-11",
-        "vertical": "Animals",
-        "team": "Catturri",
-        "team_rating": 1,
-        "needs_blockchain": true,
-        "countries_ico_available": "China, South Korea",
-        "scam_sale_probability": "80.0",
-        "smart_money_investors": "No",
-        "mining_difficulty": null,
-        "arbitrage_activity": null,
-        "created_at": "2015-12-10T20:18:21.000Z",
-        "updated_at": "2018-02-10T20:58:21.000Z",
-        "name": "Cat Coins",
-        "json_data": null,
-        "link_to_wp": "www.dogecoin.com",
-        "number_of_coins_issued": "113146970858",
-        "coin_release_date": null,
-        "whitepaper_link": "www.catcoins.co",
-        "coins_issued": "9000000",
-        "coin_image": null,
-        "logo": null,
-        "stats": [
-            {
-                "time": 1483315200000,
-                "amount": 188920.2
-            },
-            {
-                "time": 1483401600000,
-                "amount": 119814.8
-            },
-            {
-                "time": 1483488000000,
-                "amount": 182699.01
-            },
-            {
-                "time": 1483574400000,
-                "amount": 140222.21
-            },
-            {
-                "time": 1483660800000,
-                "amount": 72800.72
-            },
-            {
-                "time": 1483747200000,
-                "amount": 129167.51
-            },
-            {
-                "time": 1483833600000,
-                "amount": 10606.72
-            },
-            {
-                "time": 1483920000000,
-                "amount": 187972.25
-            },
-            {
-                "time": 1484006400000,
-                "amount": 55675.12
-            },
-            {
-                "time": 1484092800000,
-                "amount": 31411.62
-            },
-            {
-                "time": 1484179200000,
-                "amount": 49213.35
-            },
-            {
-                "time": 1484265600000,
-                "amount": 7329.66
-            },
-            {
-                "time": 1484352000000,
-                "amount": 189148.64
-            },
-            {
-                "time": 1484438400000,
-                "amount": 133081.11
-            },
-            {
-                "time": 1484524800000,
-                "amount": 149906.7
-            },
-            {
-                "time": 1484611200000,
-                "amount": 93227.51
-            },
-            {
-                "time": 1484697600000,
-                "amount": 198941.82
-            },
-            {
-                "time": 1484784000000,
-                "amount": 50441.22
-            },
-            {
-                "time": 1484870400000,
-                "amount": 34059.21
-            },
-            {
-                "time": 1484956800000,
-                "amount": 98905.09
-            },
-            {
-                "time": 1485043200000,
-                "amount": 138566.68
-            },
-            {
-                "time": 1485129600000,
-                "amount": 188924.78
-            },
-            {
-                "time": 1485216000000,
-                "amount": 61980.55
-            },
-            {
-                "time": 1485302400000,
-                "amount": 142558.95
-            },
-            {
-                "time": 1485388800000,
-                "amount": 163067.67
-            },
-            {
-                "time": 1485475200000,
-                "amount": 182862.38
-            },
-            {
-                "time": 1485561600000,
-                "amount": 27119.23
-            },
-            {
-                "time": 1485648000000,
-                "amount": 60395.12
-            },
-            {
-                "time": 1485734400000,
-                "amount": 55709.56
-            },
-            {
-                "time": 1485820800000,
-                "amount": 88551.18
-            }
-        ]
-    }
+  {
+    "id": 2,
+    "team_market_percent": null,
+    "ico_date": null,
+    "vertical": null,
+    "team": null,
+    "team_rating": 1,
+    "needs_blockchain": null,
+    "countries_ico_available": null,
+    "scam_sale_probability": null,
+    "smart_money_investors": null,
+    "mining_difficulty": null,
+    "arbitrage_activity": null,
+    "created_at": "2018-02-10T20:59:14.912Z",
+    "updated_at": "2018-02-10T21:26:57.258Z",
+    "name": "KittyCoin",
+    "json_data": null,
+    "link_to_wp": "www.kittycoin.com",
+    "number_of_coins_issued": null,
+    "coin_release_date": null,
+    "whitepaper_link": null,
+    "coins_issued": null,
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 3,
+    "team_market_percent": "5.0",
+    "ico_date": "2017-02-10",
+    "vertical": "Utilities",
+    "team": "Doge2.0",
+    "team_rating": 5,
+    "needs_blockchain": true,
+    "countries_ico_available": "USA, Canada",
+    "scam_sale_probability": "1.0",
+    "smart_money_investors": "No",
+    "mining_difficulty": null,
+    "arbitrage_activity": null,
+    "created_at": "2015-02-10T20:58:21.000Z",
+    "updated_at": "2018-02-10T20:58:21.000Z",
+    "name": "DogeCoin",
+    "json_data": null,
+    "link_to_wp": "www.dogecoin.com",
+    "number_of_coins_issued": "113146970858",
+    "coin_release_date": null,
+    "whitepaper_link": "www.dogecoin.com",
+    "coins_issued": "113146970858",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 4,
+    "team_market_percent": "5.0",
+    "ico_date": "2017-02-10",
+    "vertical": "Utilities",
+    "team": "Doge2.0",
+    "team_rating": 5,
+    "needs_blockchain": true,
+    "countries_ico_available": "USA, Canada",
+    "scam_sale_probability": "1.0",
+    "smart_money_investors": "No",
+    "mining_difficulty": null,
+    "arbitrage_activity": null,
+    "created_at": "2015-02-10T20:58:21.000Z",
+    "updated_at": "2018-02-10T20:58:21.000Z",
+    "name": "DogeCoin",
+    "json_data": null,
+    "link_to_wp": "www.dogecoin.com",
+    "number_of_coins_issued": "113146970858",
+    "coin_release_date": null,
+    "whitepaper_link": "www.dogecoin.com",
+    "coins_issued": "113146970858",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 5,
+    "team_market_percent": "0.21",
+    "ico_date": "2017-01-11",
+    "vertical": "Animals",
+    "team": "Catturri",
+    "team_rating": 1,
+    "needs_blockchain": true,
+    "countries_ico_available": "China, South Korea",
+    "scam_sale_probability": "80.0",
+    "smart_money_investors": "No",
+    "mining_difficulty": null,
+    "arbitrage_activity": null,
+    "created_at": "2015-12-10T20:18:21.000Z",
+    "updated_at": "2018-02-10T20:58:21.000Z",
+    "name": "Cat Coins",
+    "json_data": null,
+    "link_to_wp": "www.dogecoin.com",
+    "number_of_coins_issued": "113146970858",
+    "coin_release_date": null,
+    "whitepaper_link": "www.catcoins.co",
+    "coins_issued": "9000000",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 6,
+    "team_market_percent": "0.54",
+    "ico_date": "2015-03-24",
+    "vertical": null,
+    "team": "[\"Satoshi\"]",
+    "team_rating": 6,
+    "needs_blockchain": false,
+    "countries_ico_available": "[\"Japan\", \"United States Minor Outlying Islands\", \"Bermuda\"]",
+    "scam_sale_probability": "9.0",
+    "smart_money_investors": "Mark Cuban",
+    "mining_difficulty": 7,
+    "arbitrage_activity": 51,
+    "created_at": "2018-02-11T16:39:26.077Z",
+    "updated_at": "2018-02-11T16:39:26.077Z",
+    "name": "Bitcoin",
+    "json_data": null,
+    "link_to_wp": "Bitcoin.com",
+    "number_of_coins_issued": "16858512.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "Bitcoin.com",
+    "coins_issued": "16858512.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 7,
+    "team_market_percent": "0.37",
+    "ico_date": "2015-04-22",
+    "vertical": null,
+    "team": "[\"Satoshi\", \"Winklevoss\"]",
+    "team_rating": 2,
+    "needs_blockchain": false,
+    "countries_ico_available": "[\"Morocco\", \"Belarus\", \"Macedonia\"]",
+    "scam_sale_probability": "1.0",
+    "smart_money_investors": "Mark Cuban",
+    "mining_difficulty": 51,
+    "arbitrage_activity": 43,
+    "created_at": "2018-02-11T16:39:26.111Z",
+    "updated_at": "2018-02-11T16:39:26.111Z",
+    "name": "Ethereum",
+    "json_data": null,
+    "link_to_wp": "Ethereum.com",
+    "number_of_coins_issued": "97551418.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "Ethereum.com",
+    "coins_issued": "97551418.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 8,
+    "team_market_percent": "0.46",
+    "ico_date": "2015-04-19",
+    "vertical": null,
+    "team": "[\"50 Cent\"]",
+    "team_rating": 0,
+    "needs_blockchain": false,
+    "countries_ico_available": "[\"Guinea\", \"Puerto Rico\", \"Latvia\"]",
+    "scam_sale_probability": "8.0",
+    "smart_money_investors": "Mark Cuban",
+    "mining_difficulty": 53,
+    "arbitrage_activity": 30,
+    "created_at": "2018-02-11T16:39:26.150Z",
+    "updated_at": "2018-02-11T16:39:26.150Z",
+    "name": "Ripple",
+    "json_data": null,
+    "link_to_wp": "Ripple.com",
+    "number_of_coins_issued": "99992725510.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "Ripple.com",
+    "coins_issued": "99992725510.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 9,
+    "team_market_percent": "1.0",
+    "ico_date": "2012-12-09",
+    "vertical": null,
+    "team": "[\"50 Cent\"]",
+    "team_rating": 5,
+    "needs_blockchain": false,
+    "countries_ico_available": "[\"Norfolk Island\", \"Djibouti\", \"Timor-Leste\"]",
+    "scam_sale_probability": "1.0",
+    "smart_money_investors": "Chuck Norris",
+    "mining_difficulty": 81,
+    "arbitrage_activity": 17,
+    "created_at": "2018-02-11T16:39:26.202Z",
+    "updated_at": "2018-02-11T16:39:26.202Z",
+    "name": "Bitcoin Cash",
+    "json_data": null,
+    "link_to_wp": "Bitcoin Cash.com",
+    "number_of_coins_issued": "16961938.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "Bitcoin Cash.com",
+    "coins_issued": "16961938.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 10,
+    "team_market_percent": "0.23",
+    "ico_date": "2016-11-10",
+    "vertical": null,
+    "team": "[\"Satoshi\", \"50 Cent\", \"Winklevoss\"]",
+    "team_rating": 0,
+    "needs_blockchain": false,
+    "countries_ico_available": "[\"Gabon\", \"Slovakia (Slovak Republic)\", \"United States of America\"]",
+    "scam_sale_probability": "7.0",
+    "smart_money_investors": "Chuck Norris",
+    "mining_difficulty": 29,
+    "arbitrage_activity": 64,
+    "created_at": "2018-02-11T16:39:26.251Z",
+    "updated_at": "2018-02-11T16:39:26.251Z",
+    "name": "Cardano",
+    "json_data": null,
+    "link_to_wp": "Cardano.com",
+    "number_of_coins_issued": "31112483745.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "Cardano.com",
+    "coins_issued": "31112483745.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 11,
+    "team_market_percent": "0.75",
+    "ico_date": "2017-12-15",
+    "vertical": null,
+    "team": "[\"Satoshi\", \"Winklevoss\"]",
+    "team_rating": 4,
+    "needs_blockchain": true,
+    "countries_ico_available": "[\"Estonia\", \"Netherlands Antilles\", \"Morocco\"]",
+    "scam_sale_probability": "0.0",
+    "smart_money_investors": "50 Cent",
+    "mining_difficulty": 22,
+    "arbitrage_activity": 80,
+    "created_at": "2018-02-11T16:39:26.281Z",
+    "updated_at": "2018-02-11T16:39:26.281Z",
+    "name": "Litecoin",
+    "json_data": null,
+    "link_to_wp": "Litecoin.com",
+    "number_of_coins_issued": "55170408.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "Litecoin.com",
+    "coins_issued": "55170408.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 12,
+    "team_market_percent": "0.79",
+    "ico_date": "2016-10-14",
+    "vertical": null,
+    "team": "[\"Winklevoss\", \"50 Cent\"]",
+    "team_rating": 8,
+    "needs_blockchain": true,
+    "countries_ico_available": "[\"Botswana\", \"Cocos (Keeling) Islands\", \"Marshall Islands\"]",
+    "scam_sale_probability": "1.0",
+    "smart_money_investors": "Mark Cuban",
+    "mining_difficulty": 83,
+    "arbitrage_activity": 96,
+    "created_at": "2018-02-11T16:39:26.334Z",
+    "updated_at": "2018-02-11T16:39:26.334Z",
+    "name": "NEO",
+    "json_data": null,
+    "link_to_wp": "NEO.com",
+    "number_of_coins_issued": "100000000.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "NEO.com",
+    "coins_issued": "100000000.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 13,
+    "team_market_percent": "0.27",
+    "ico_date": "2017-11-14",
+    "vertical": null,
+    "team": "[\"Satoshi\"]",
+    "team_rating": 3,
+    "needs_blockchain": true,
+    "countries_ico_available": "[\"Madagascar\", \"Colombia\", \"Heard Island and McDonald Islands\"]",
+    "scam_sale_probability": "8.0",
+    "smart_money_investors": "50 Cent",
+    "mining_difficulty": 63,
+    "arbitrage_activity": 33,
+    "created_at": "2018-02-11T16:39:26.376Z",
+    "updated_at": "2018-02-11T16:39:26.376Z",
+    "name": "Stellar",
+    "json_data": null,
+    "link_to_wp": "Stellar.com",
+    "number_of_coins_issued": "103669352049",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "Stellar.com",
+    "coins_issued": "103669352049",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 14,
+    "team_market_percent": "0.06",
+    "ico_date": "2014-10-17",
+    "vertical": null,
+    "team": "[\"Winklevoss\", \"50 Cent\", \"Satoshi\"]",
+    "team_rating": 4,
+    "needs_blockchain": false,
+    "countries_ico_available": "[\"Tanzania\", \"Saint Pierre and Miquelon\", \"Falkland Islands (Malvinas)\"]",
+    "scam_sale_probability": "5.0",
+    "smart_money_investors": "Mark Cuban",
+    "mining_difficulty": 70,
+    "arbitrage_activity": 59,
+    "created_at": "2018-02-11T16:39:26.411Z",
+    "updated_at": "2018-02-11T16:39:26.411Z",
+    "name": "EOS",
+    "json_data": null,
+    "link_to_wp": "EOS.com",
+    "number_of_coins_issued": "900000000.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "EOS.com",
+    "coins_issued": "900000000.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 15,
+    "team_market_percent": "0.22",
+    "ico_date": "2015-11-29",
+    "vertical": null,
+    "team": "[\"50 Cent\", \"Satoshi\"]",
+    "team_rating": 2,
+    "needs_blockchain": true,
+    "countries_ico_available": "[\"Japan\", \"Sweden\", \"Portugal\"]",
+    "scam_sale_probability": "7.0",
+    "smart_money_investors": "Mark Cuban",
+    "mining_difficulty": 33,
+    "arbitrage_activity": 14,
+    "created_at": "2018-02-11T16:39:26.462Z",
+    "updated_at": "2018-02-11T16:39:26.462Z",
+    "name": "IOTA",
+    "json_data": null,
+    "link_to_wp": "IOTA.com",
+    "number_of_coins_issued": "2779530283.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "IOTA.com",
+    "coins_issued": "2779530283.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 16,
+    "team_market_percent": "0.9",
+    "ico_date": "2018-01-10",
+    "vertical": null,
+    "team": "[\"Winklevoss\"]",
+    "team_rating": 1,
+    "needs_blockchain": true,
+    "countries_ico_available": "[\"Madagascar\", \"China\", \"Guam\"]",
+    "scam_sale_probability": "8.0",
+    "smart_money_investors": "50 Cent",
+    "mining_difficulty": 61,
+    "arbitrage_activity": 99,
+    "created_at": "2018-02-11T16:39:26.507Z",
+    "updated_at": "2018-02-11T16:39:26.507Z",
+    "name": "NEM",
+    "json_data": null,
+    "link_to_wp": "NEM.com",
+    "number_of_coins_issued": "8999999999.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "NEM.com",
+    "coins_issued": "8999999999.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 17,
+    "team_market_percent": "0.54",
+    "ico_date": "2017-10-12",
+    "vertical": null,
+    "team": "[\"Satoshi\"]",
+    "team_rating": 7,
+    "needs_blockchain": false,
+    "countries_ico_available": "[\"Iran\", \"Ireland\", \"Iceland\"]",
+    "scam_sale_probability": "3.0",
+    "smart_money_investors": "Mark Cuban",
+    "mining_difficulty": 83,
+    "arbitrage_activity": 86,
+    "created_at": "2018-02-11T16:39:26.538Z",
+    "updated_at": "2018-02-11T16:39:26.538Z",
+    "name": "Dash",
+    "json_data": null,
+    "link_to_wp": "Dash.com",
+    "number_of_coins_issued": "7878069.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "Dash.com",
+    "coins_issued": "7878069.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 18,
+    "team_market_percent": "0.4",
+    "ico_date": "2013-03-12",
+    "vertical": null,
+    "team": "[\"Satoshi\", \"Winklevoss\"]",
+    "team_rating": 3,
+    "needs_blockchain": true,
+    "countries_ico_available": "[\"French Guiana\", \"Singapore\", \"Tuvalu\"]",
+    "scam_sale_probability": "9.0",
+    "smart_money_investors": "50 Cent",
+    "mining_difficulty": 57,
+    "arbitrage_activity": 14,
+    "created_at": "2018-02-11T16:39:26.566Z",
+    "updated_at": "2018-02-11T16:39:26.566Z",
+    "name": "Monero",
+    "json_data": null,
+    "link_to_wp": "Monero.com",
+    "number_of_coins_issued": "15709650.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "Monero.com",
+    "coins_issued": "15709650.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 19,
+    "team_market_percent": "0.43",
+    "ico_date": "2014-08-14",
+    "vertical": null,
+    "team": "[\"50 Cent\", \"Winklevoss\", \"Satoshi\"]",
+    "team_rating": 1,
+    "needs_blockchain": false,
+    "countries_ico_available": "[\"Bermuda\", \"Croatia\", \"Yemen\"]",
+    "scam_sale_probability": "4.0",
+    "smart_money_investors": "Mark Cuban",
+    "mining_difficulty": 14,
+    "arbitrage_activity": 27,
+    "created_at": "2018-02-11T16:39:26.589Z",
+    "updated_at": "2018-02-11T16:39:26.589Z",
+    "name": "Lisk",
+    "json_data": null,
+    "link_to_wp": "Lisk.com",
+    "number_of_coins_issued": "117958292.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "Lisk.com",
+    "coins_issued": "117958292.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 20,
+    "team_market_percent": "0.25",
+    "ico_date": "2014-11-20",
+    "vertical": null,
+    "team": "[\"Winklevoss\", \"Satoshi\", \"50 Cent\"]",
+    "team_rating": 4,
+    "needs_blockchain": false,
+    "countries_ico_available": "[\"Costa Rica\", \"Burundi\", \"El Salvador\"]",
+    "scam_sale_probability": "9.0",
+    "smart_money_investors": "50 Cent",
+    "mining_difficulty": 82,
+    "arbitrage_activity": 45,
+    "created_at": "2018-02-11T16:39:26.618Z",
+    "updated_at": "2018-02-11T16:39:26.618Z",
+    "name": "TRON",
+    "json_data": null,
+    "link_to_wp": "TRON.com",
+    "number_of_coins_issued": "100000000000",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "TRON.com",
+    "coins_issued": "100000000000",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 21,
+    "team_market_percent": "0.83",
+    "ico_date": "2012-10-28",
+    "vertical": null,
+    "team": "[\"50 Cent\", \"Winklevoss\"]",
+    "team_rating": 4,
+    "needs_blockchain": false,
+    "countries_ico_available": "[\"Bolivia\", \"Iceland\", \"Kenya\"]",
+    "scam_sale_probability": "1.0",
+    "smart_money_investors": "Chuck Norris",
+    "mining_difficulty": 4,
+    "arbitrage_activity": 84,
+    "created_at": "2018-02-11T16:39:26.645Z",
+    "updated_at": "2018-02-11T16:39:26.645Z",
+    "name": "Ethereum Classic",
+    "json_data": null,
+    "link_to_wp": "Ethereum Classic.com",
+    "number_of_coins_issued": "99781851.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "Ethereum Classic.com",
+    "coins_issued": "99781851.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 22,
+    "team_market_percent": "0.73",
+    "ico_date": "2017-11-06",
+    "vertical": null,
+    "team": "[\"50 Cent\"]",
+    "team_rating": 4,
+    "needs_blockchain": false,
+    "countries_ico_available": "[\"Togo\", \"Kyrgyz Republic\", \"Dominica\"]",
+    "scam_sale_probability": "7.0",
+    "smart_money_investors": "50 Cent",
+    "mining_difficulty": 46,
+    "arbitrage_activity": 26,
+    "created_at": "2018-02-11T16:39:26.670Z",
+    "updated_at": "2018-02-11T16:39:26.670Z",
+    "name": "Tether",
+    "json_data": null,
+    "link_to_wp": "Tether.com",
+    "number_of_coins_issued": "2280109970.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "Tether.com",
+    "coins_issued": "2280109970.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 23,
+    "team_market_percent": "0.51",
+    "ico_date": "2014-06-22",
+    "vertical": null,
+    "team": "[\"Winklevoss\", \"Satoshi\", \"50 Cent\"]",
+    "team_rating": 4,
+    "needs_blockchain": true,
+    "countries_ico_available": "[\"Guam\", \"Australia\", \"Morocco\"]",
+    "scam_sale_probability": "3.0",
+    "smart_money_investors": "Mark Cuban",
+    "mining_difficulty": 18,
+    "arbitrage_activity": 74,
+    "created_at": "2018-02-11T16:39:26.693Z",
+    "updated_at": "2018-02-11T16:39:26.693Z",
+    "name": "Bitcoin Gold",
+    "json_data": null,
+    "link_to_wp": "Bitcoin Gold.com",
+    "number_of_coins_issued": "16917899.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "Bitcoin Gold.com",
+    "coins_issued": "16917899.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 24,
+    "team_market_percent": "0.43",
+    "ico_date": "2015-07-28",
+    "vertical": null,
+    "team": "[\"Winklevoss\", \"50 Cent\"]",
+    "team_rating": 8,
+    "needs_blockchain": false,
+    "countries_ico_available": "[\"Ukraine\", \"Uganda\", \"Cyprus\"]",
+    "scam_sale_probability": "7.0",
+    "smart_money_investors": "Mark Cuban",
+    "mining_difficulty": 33,
+    "arbitrage_activity": 10,
+    "created_at": "2018-02-11T16:39:26.722Z",
+    "updated_at": "2018-02-11T16:39:26.722Z",
+    "name": "Qtum",
+    "json_data": null,
+    "link_to_wp": "Qtum.com",
+    "number_of_coins_issued": "100374164.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "Qtum.com",
+    "coins_issued": "100374164.0",
+    "coin_image": null,
+    "logo": null
+  },
+  {
+    "id": 25,
+    "team_market_percent": "0.52",
+    "ico_date": "2015-10-10",
+    "vertical": null,
+    "team": "[\"50 Cent\", \"Winklevoss\", \"Satoshi\"]",
+    "team_rating": 1,
+    "needs_blockchain": false,
+    "countries_ico_available": "[\"Saint Helena\", \"Colombia\", \"United Kingdom\"]",
+    "scam_sale_probability": "8.0",
+    "smart_money_investors": "Mark Cuban",
+    "mining_difficulty": 77,
+    "arbitrage_activity": 98,
+    "created_at": "2018-02-11T16:39:26.748Z",
+    "updated_at": "2018-02-11T16:39:26.748Z",
+    "name": "VeChain",
+    "json_data": null,
+    "link_to_wp": "VeChain.com",
+    "number_of_coins_issued": "873378637.0",
+    "coin_release_date": "2018-02-11",
+    "whitepaper_link": "VeChain.com",
+    "coins_issued": "873378637.0",
+    "coin_image": null,
+    "logo": null
+  }
 ]
