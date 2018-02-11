@@ -1,502 +1,2942 @@
 [
-  {
-    "id": 86,
-    "team_market_percent": "0.36",
-    "ico_date": "2017-11-09",
-    "vertical": null,
-    "team": "Anonymous, Mark Coinberg",
-    "team_rating": 1,
-    "needs_blockchain": false,
-    "countries_ico_available": "Bangladesh, Wallis and Futuna, Gibraltar",
-    "scam_sale_probability": "8.0",
-    "smart_money_investors": "Chuck Norris",
-    "mining_difficulty": 4,
-    "arbitrage_activity": 43,
-    "created_at": "2018-02-11T18:31:22.990Z",
-    "updated_at": "2018-02-11T18:31:22.990Z",
-    "name": "Bitcoin",
-    "json_data": null,
-    "link_to_wp": "Bitcoin.com",
-    "number_of_coins_issued": "16858762.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "Bitcoin.com",
-    "coins_issued": "16858762.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 87,
-    "team_market_percent": "0.82",
-    "ico_date": "2016-03-20",
-    "vertical": null,
-    "team": "Anonymous, Mark Cuban, Paris Hilton",
-    "team_rating": 9,
-    "needs_blockchain": false,
-    "countries_ico_available": "Guyana, Antigua and Barbuda, Lesotho",
-    "scam_sale_probability": "8.0",
-    "smart_money_investors": "Mark Cuban",
-    "mining_difficulty": 42,
-    "arbitrage_activity": 88,
-    "created_at": "2018-02-11T18:31:23.023Z",
-    "updated_at": "2018-02-11T18:31:23.023Z",
-    "name": "Ethereum",
-    "json_data": null,
-    "link_to_wp": "Ethereum.com",
-    "number_of_coins_issued": "97553113.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "Ethereum.com",
-    "coins_issued": "97553113.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 88,
-    "team_market_percent": "0.13",
-    "ico_date": "2014-08-03",
-    "vertical": null,
-    "team": "Anonymous, Kevin Mack, Kim Chen Coin",
-    "team_rating": 4,
-    "needs_blockchain": true,
-    "countries_ico_available": "Moldova, Uganda, Finland",
-    "scam_sale_probability": "8.0",
-    "smart_money_investors": "50 Cent",
-    "mining_difficulty": 38,
-    "arbitrage_activity": 3,
-    "created_at": "2018-02-11T18:31:23.054Z",
-    "updated_at": "2018-02-11T18:31:23.054Z",
-    "name": "Ripple",
-    "json_data": null,
-    "link_to_wp": "Ripple.com",
-    "number_of_coins_issued": "99992725510.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "Ripple.com",
-    "coins_issued": "99992725510.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 89,
-    "team_market_percent": "0.79",
-    "ico_date": "2017-01-05",
-    "vertical": null,
-    "team": "Mark Coinberg, 50 Cent",
-    "team_rating": 9,
-    "needs_blockchain": true,
-    "countries_ico_available": "Christmas Island, Cocos (Keeling) Islands, Puerto Rico",
-    "scam_sale_probability": "2.0",
-    "smart_money_investors": "50 Cent",
-    "mining_difficulty": 20,
-    "arbitrage_activity": 72,
-    "created_at": "2018-02-11T18:31:23.100Z",
-    "updated_at": "2018-02-11T18:31:23.100Z",
-    "name": "Bitcoin Cash",
-    "json_data": null,
-    "link_to_wp": "Bitcoin Cash.com",
-    "number_of_coins_issued": "16962088.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "Bitcoin Cash.com",
-    "coins_issued": "16962088.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 90,
-    "team_market_percent": "0.16",
-    "ico_date": "2014-04-14",
-    "vertical": null,
-    "team": "Satoshi Coinmoto, Winklevoss",
-    "team_rating": 4,
-    "needs_blockchain": true,
-    "countries_ico_available": "Mauritania, Vietnam, Falkland Islands (Malvinas)",
-    "scam_sale_probability": "6.0",
-    "smart_money_investors": "Mark Cuban",
-    "mining_difficulty": 24,
-    "arbitrage_activity": 16,
-    "created_at": "2018-02-11T18:31:23.122Z",
-    "updated_at": "2018-02-11T18:31:23.122Z",
-    "name": "Cardano",
-    "json_data": null,
-    "link_to_wp": "Cardano.com",
-    "number_of_coins_issued": "31112483745.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "Cardano.com",
-    "coins_issued": "31112483745.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 91,
-    "team_market_percent": "0.39",
-    "ico_date": "2013-12-05",
-    "vertical": null,
-    "team": "Kevin Mack, Moon Hodl",
-    "team_rating": 0,
-    "needs_blockchain": false,
-    "countries_ico_available": "Benin, Macao, Liechtenstein",
-    "scam_sale_probability": "1.0",
-    "smart_money_investors": "Mark Cuban",
-    "mining_difficulty": 97,
-    "arbitrage_activity": 0,
-    "created_at": "2018-02-11T18:31:23.148Z",
-    "updated_at": "2018-02-11T18:31:23.148Z",
-    "name": "Litecoin",
-    "json_data": null,
-    "link_to_wp": "Litecoin.com",
-    "number_of_coins_issued": "55171883.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "Litecoin.com",
-    "coins_issued": "55171883.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 92,
-    "team_market_percent": "0.77",
-    "ico_date": "2015-03-16",
-    "vertical": null,
-    "team": "Mark Cuban, Kim Chen Coin, Winklevoss, Mark Coinberg, Kevin Mack",
-    "team_rating": 4,
-    "needs_blockchain": true,
-    "countries_ico_available": "Norway, Norway, Faroe Islands",
-    "scam_sale_probability": "4.0",
-    "smart_money_investors": "50 Cent",
-    "mining_difficulty": 86,
-    "arbitrage_activity": 77,
-    "created_at": "2018-02-11T18:31:23.188Z",
-    "updated_at": "2018-02-11T18:31:23.188Z",
-    "name": "NEO",
-    "json_data": null,
-    "link_to_wp": "NEO.com",
-    "number_of_coins_issued": "100000000.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "NEO.com",
-    "coins_issued": "100000000.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 93,
-    "team_market_percent": "0.45",
-    "ico_date": "2014-09-05",
-    "vertical": null,
-    "team": "Moon Hodl, Mark Cuban, Winklevoss, Anonymous",
-    "team_rating": 8,
-    "needs_blockchain": false,
-    "countries_ico_available": "Armenia, Virgin Islands, British, Kyrgyz Republic",
-    "scam_sale_probability": "7.0",
-    "smart_money_investors": "Chuck Norris",
-    "mining_difficulty": 7,
-    "arbitrage_activity": 59,
-    "created_at": "2018-02-11T18:31:23.232Z",
-    "updated_at": "2018-02-11T18:31:23.232Z",
-    "name": "Stellar",
-    "json_data": null,
-    "link_to_wp": "Stellar.com",
-    "number_of_coins_issued": "103669352049",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "Stellar.com",
-    "coins_issued": "103669352049",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 94,
-    "team_market_percent": "0.4",
-    "ico_date": "2014-06-13",
-    "vertical": null,
-    "team": "Moon Hodl, Mark Coinberg",
-    "team_rating": 3,
-    "needs_blockchain": false,
-    "countries_ico_available": "Guinea-Bissau, Lithuania, Vanuatu",
-    "scam_sale_probability": "3.0",
-    "smart_money_investors": "50 Cent",
-    "mining_difficulty": 20,
-    "arbitrage_activity": 91,
-    "created_at": "2018-02-11T18:31:23.266Z",
-    "updated_at": "2018-02-11T18:31:23.266Z",
-    "name": "EOS",
-    "json_data": null,
-    "link_to_wp": "EOS.com",
-    "number_of_coins_issued": "900000000.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "EOS.com",
-    "coins_issued": "900000000.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 95,
-    "team_market_percent": "0.41",
-    "ico_date": "2013-12-14",
-    "vertical": null,
-    "team": "Kevin Mack, Anonymous, Satoshi Coinmoto, Kim Chen Coin, Mark Coinberg",
-    "team_rating": 7,
-    "needs_blockchain": true,
-    "countries_ico_available": "Mali, Bermuda, Republic of Korea",
-    "scam_sale_probability": "4.0",
-    "smart_money_investors": "50 Cent",
-    "mining_difficulty": 95,
-    "arbitrage_activity": 37,
-    "created_at": "2018-02-11T18:31:23.304Z",
-    "updated_at": "2018-02-11T18:31:23.304Z",
-    "name": "IOTA",
-    "json_data": null,
-    "link_to_wp": "IOTA.com",
-    "number_of_coins_issued": "2779530283.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "IOTA.com",
-    "coins_issued": "2779530283.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 96,
-    "team_market_percent": "0.63",
-    "ico_date": "2013-04-29",
-    "vertical": null,
-    "team": "Kim Chen Coin, Winklevoss, Anonymous",
-    "team_rating": 7,
-    "needs_blockchain": false,
-    "countries_ico_available": "South Georgia and the South Sandwich Islands, Estonia, Aruba",
-    "scam_sale_probability": "9.0",
-    "smart_money_investors": "Mark Cuban",
-    "mining_difficulty": 88,
-    "arbitrage_activity": 52,
-    "created_at": "2018-02-11T18:31:23.338Z",
-    "updated_at": "2018-02-11T18:31:23.338Z",
-    "name": "NEM",
-    "json_data": null,
-    "link_to_wp": "NEM.com",
-    "number_of_coins_issued": "8999999999.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "NEM.com",
-    "coins_issued": "8999999999.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 97,
-    "team_market_percent": "0.71",
-    "ico_date": "2016-07-20",
-    "vertical": null,
-    "team": "Kim Chen Coin, Moon Hodl, Mark Cuban, Mark Coinberg, Winklevoss",
-    "team_rating": 7,
-    "needs_blockchain": false,
-    "countries_ico_available": "Yemen, Tunisia, India",
-    "scam_sale_probability": "8.0",
-    "smart_money_investors": "Mark Cuban",
-    "mining_difficulty": 38,
-    "arbitrage_activity": 59,
-    "created_at": "2018-02-11T18:31:23.365Z",
-    "updated_at": "2018-02-11T18:31:23.365Z",
-    "name": "Dash",
-    "json_data": null,
-    "link_to_wp": "Dash.com",
-    "number_of_coins_issued": "7878220.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "Dash.com",
-    "coins_issued": "7878220.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 98,
-    "team_market_percent": "0.45",
-    "ico_date": "2017-05-06",
-    "vertical": null,
-    "team": "Mark Cuban, Paris Hilton, Mark Coinberg, 50 Cent, Winklevoss",
-    "team_rating": 3,
-    "needs_blockchain": true,
-    "countries_ico_available": "Saint Martin, Tanzania, Cocos (Keeling) Islands",
-    "scam_sale_probability": "0.0",
-    "smart_money_investors": "50 Cent",
-    "mining_difficulty": 52,
-    "arbitrage_activity": 38,
-    "created_at": "2018-02-11T18:31:23.391Z",
-    "updated_at": "2018-02-11T18:31:23.391Z",
-    "name": "Monero",
-    "json_data": null,
-    "link_to_wp": "Monero.com",
-    "number_of_coins_issued": "15710020.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "Monero.com",
-    "coins_issued": "15710020.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 99,
-    "team_market_percent": "0.15",
-    "ico_date": "2016-01-21",
-    "vertical": null,
-    "team": "Anonymous, Moon Hodl, Winklevoss, Satoshi Coinmoto, Mark Coinberg",
-    "team_rating": 4,
-    "needs_blockchain": false,
-    "countries_ico_available": "New Zealand, Montenegro, Uzbekistan",
-    "scam_sale_probability": "3.0",
-    "smart_money_investors": "Mark Cuban",
-    "mining_difficulty": 18,
-    "arbitrage_activity": 16,
-    "created_at": "2018-02-11T18:31:23.420Z",
-    "updated_at": "2018-02-11T18:31:23.420Z",
-    "name": "Lisk",
-    "json_data": null,
-    "link_to_wp": "Lisk.com",
-    "number_of_coins_issued": "117961172.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "Lisk.com",
-    "coins_issued": "117961172.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 100,
-    "team_market_percent": "0.99",
-    "ico_date": "2016-02-24",
-    "vertical": null,
-    "team": "50 Cent, Anonymous, Winklevoss",
-    "team_rating": 6,
-    "needs_blockchain": true,
-    "countries_ico_available": "Maldives, India, Suriname",
-    "scam_sale_probability": "8.0",
-    "smart_money_investors": "50 Cent",
-    "mining_difficulty": 45,
-    "arbitrage_activity": 43,
-    "created_at": "2018-02-11T18:31:23.452Z",
-    "updated_at": "2018-02-11T18:31:23.452Z",
-    "name": "TRON",
-    "json_data": null,
-    "link_to_wp": "TRON.com",
-    "number_of_coins_issued": "100000000000",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "TRON.com",
-    "coins_issued": "100000000000",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 101,
-    "team_market_percent": "0.96",
-    "ico_date": "2015-05-03",
-    "vertical": null,
-    "team": "Moon Hodl, Kevin Mack, Paris Hilton, Mark Coinberg",
-    "team_rating": 4,
-    "needs_blockchain": false,
-    "countries_ico_available": "Nauru, Congo, Turkmenistan",
-    "scam_sale_probability": "9.0",
-    "smart_money_investors": "Chuck Norris",
-    "mining_difficulty": 49,
-    "arbitrage_activity": 76,
-    "created_at": "2018-02-11T18:31:23.480Z",
-    "updated_at": "2018-02-11T18:31:23.480Z",
-    "name": "Ethereum Classic",
-    "json_data": null,
-    "link_to_wp": "Ethereum Classic.com",
-    "number_of_coins_issued": "99783381.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "Ethereum Classic.com",
-    "coins_issued": "99783381.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 102,
-    "team_market_percent": "0.58",
-    "ico_date": "2015-07-04",
-    "vertical": null,
-    "team": "Paris Hilton, 50 Cent, Kevin Mack, Moon Hodl",
-    "team_rating": 9,
-    "needs_blockchain": true,
-    "countries_ico_available": "France, Lithuania, Guinea",
-    "scam_sale_probability": "5.0",
-    "smart_money_investors": "Chuck Norris",
-    "mining_difficulty": 83,
-    "arbitrage_activity": 59,
-    "created_at": "2018-02-11T18:31:23.517Z",
-    "updated_at": "2018-02-11T18:31:23.517Z",
-    "name": "Tether",
-    "json_data": null,
-    "link_to_wp": "Tether.com",
-    "number_of_coins_issued": "2280109970.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "Tether.com",
-    "coins_issued": "2280109970.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 103,
-    "team_market_percent": "0.1",
-    "ico_date": "2013-04-14",
-    "vertical": null,
-    "team": "Mark Cuban, Mark Coinberg",
-    "team_rating": 3,
-    "needs_blockchain": true,
-    "countries_ico_available": "Mauritius, Zambia, Honduras",
-    "scam_sale_probability": "9.0",
-    "smart_money_investors": "Mark Cuban",
-    "mining_difficulty": 19,
-    "arbitrage_activity": 98,
-    "created_at": "2018-02-11T18:31:23.556Z",
-    "updated_at": "2018-02-11T18:31:23.556Z",
-    "name": "Bitcoin Gold",
-    "json_data": null,
-    "link_to_wp": "Bitcoin Gold.com",
-    "number_of_coins_issued": "16918261.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "Bitcoin Gold.com",
-    "coins_issued": "16918261.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 104,
-    "team_market_percent": "0.22",
-    "ico_date": "2013-06-12",
-    "vertical": null,
-    "team": "Mark Coinberg, Kim Chen Coin, Paris Hilton, Anonymous",
-    "team_rating": 5,
-    "needs_blockchain": true,
-    "countries_ico_available": "Congo, Falkland Islands (Malvinas), Argentina",
-    "scam_sale_probability": "0.0",
-    "smart_money_investors": "50 Cent",
-    "mining_difficulty": 59,
-    "arbitrage_activity": 24,
-    "created_at": "2018-02-11T18:31:23.579Z",
-    "updated_at": "2018-02-11T18:31:23.579Z",
-    "name": "Qtum",
-    "json_data": null,
-    "link_to_wp": "Qtum.com",
-    "number_of_coins_issued": "100374372.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "Qtum.com",
-    "coins_issued": "100374372.0",
-    "coin_image": null,
-    "logo": null
-  },
-  {
-    "id": 105,
-    "team_market_percent": "0.47",
-    "ico_date": "2015-07-26",
-    "vertical": null,
-    "team": "Mark Cuban, Mark Coinberg",
-    "team_rating": 1,
-    "needs_blockchain": true,
-    "countries_ico_available": "Mauritania, Greenland, Gambia",
-    "scam_sale_probability": "4.0",
-    "smart_money_investors": "Chuck Norris",
-    "mining_difficulty": 59,
-    "arbitrage_activity": 61,
-    "created_at": "2018-02-11T18:31:23.609Z",
-    "updated_at": "2018-02-11T18:31:23.609Z",
-    "name": "VeChain",
-    "json_data": null,
-    "link_to_wp": "VeChain.com",
-    "number_of_coins_issued": "873378637.0",
-    "coin_release_date": "2018-02-11",
-    "whitepaper_link": "VeChain.com",
-    "coins_issued": "873378637.0",
-    "coin_image": null,
-    "logo": null
-  }
+    {
+        "id": 86,
+        "team_market_percent": "0.36",
+        "ico_date": "2017-11-09",
+        "vertical": null,
+        "team": "Anonymous, Mark Coinberg",
+        "team_rating": 1,
+        "needs_blockchain": false,
+        "countries_ico_available": "Bangladesh, Wallis and Futuna, Gibraltar",
+        "scam_sale_probability": "8.0",
+        "smart_money_investors": "Chuck Norris",
+        "mining_difficulty": 4,
+        "arbitrage_activity": 43,
+        "created_at": "2018-02-11T18:31:22.990Z",
+        "updated_at": "2018-02-11T18:31:22.990Z",
+        "name": "Bitcoin",
+        "json_data": null,
+        "link_to_wp": "Bitcoin.com",
+        "number_of_coins_issued": "16858762.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "Bitcoin.com",
+        "coins_issued": "16858762.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1483315200000,
+                "amount": 68771.44
+            },
+            {
+                "time": 1483401600000,
+                "amount": 78713.91
+            },
+            {
+                "time": 1483488000000,
+                "amount": 182729.12
+            },
+            {
+                "time": 1483574400000,
+                "amount": 151482.73
+            },
+            {
+                "time": 1483660800000,
+                "amount": 22532.47
+            },
+            {
+                "time": 1483747200000,
+                "amount": 34706.3
+            },
+            {
+                "time": 1483833600000,
+                "amount": 79293.21
+            },
+            {
+                "time": 1483920000000,
+                "amount": 10560.82
+            },
+            {
+                "time": 1484006400000,
+                "amount": 47285.76
+            },
+            {
+                "time": 1484092800000,
+                "amount": 47515.9
+            },
+            {
+                "time": 1484179200000,
+                "amount": 40556.94
+            },
+            {
+                "time": 1484265600000,
+                "amount": 50282.51
+            },
+            {
+                "time": 1484352000000,
+                "amount": 73683.54
+            },
+            {
+                "time": 1484438400000,
+                "amount": 59398.86
+            },
+            {
+                "time": 1484524800000,
+                "amount": 66677.89
+            },
+            {
+                "time": 1484611200000,
+                "amount": 84319.51
+            },
+            {
+                "time": 1484697600000,
+                "amount": 15441.92
+            },
+            {
+                "time": 1484784000000,
+                "amount": 91812.24
+            },
+            {
+                "time": 1484870400000,
+                "amount": 29841.25
+            },
+            {
+                "time": 1484956800000,
+                "amount": 170621.04
+            },
+            {
+                "time": 1485043200000,
+                "amount": 17099.61
+            },
+            {
+                "time": 1485129600000,
+                "amount": 148843.49
+            },
+            {
+                "time": 1485216000000,
+                "amount": 147745.3
+            },
+            {
+                "time": 1485302400000,
+                "amount": 63805.63
+            },
+            {
+                "time": 1485388800000,
+                "amount": 30468.36
+            },
+            {
+                "time": 1485475200000,
+                "amount": 4876.75
+            },
+            {
+                "time": 1485561600000,
+                "amount": 63477.17
+            },
+            {
+                "time": 1485648000000,
+                "amount": 59244.8
+            },
+            {
+                "time": 1485734400000,
+                "amount": 147480.49
+            },
+            {
+                "time": 1485820800000,
+                "amount": 180364.36
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "team_market_percent": "0.82",
+        "ico_date": "2016-03-20",
+        "vertical": null,
+        "team": "Anonymous, Mark Cuban, Paris Hilton",
+        "team_rating": 9,
+        "needs_blockchain": false,
+        "countries_ico_available": "Guyana, Antigua and Barbuda, Lesotho",
+        "scam_sale_probability": "8.0",
+        "smart_money_investors": "Mark Cuban",
+        "mining_difficulty": 42,
+        "arbitrage_activity": 88,
+        "created_at": "2018-02-11T18:31:23.023Z",
+        "updated_at": "2018-02-11T18:31:23.023Z",
+        "name": "Ethereum",
+        "json_data": null,
+        "link_to_wp": "Ethereum.com",
+        "number_of_coins_issued": "97553113.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "Ethereum.com",
+        "coins_issued": "97553113.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1485907200000,
+                "amount": 36095
+            },
+            {
+                "time": 1485993600000,
+                "amount": 26227.67
+            },
+            {
+                "time": 1486080000000,
+                "amount": 9427.38
+            },
+            {
+                "time": 1486166400000,
+                "amount": 109012.12
+            },
+            {
+                "time": 1486252800000,
+                "amount": 56678.85
+            },
+            {
+                "time": 1486339200000,
+                "amount": 70484.7
+            },
+            {
+                "time": 1486425600000,
+                "amount": 70510.87
+            },
+            {
+                "time": 1486512000000,
+                "amount": 38993.53
+            },
+            {
+                "time": 1486598400000,
+                "amount": 78058.73
+            },
+            {
+                "time": 1486684800000,
+                "amount": 142611.87
+            },
+            {
+                "time": 1486771200000,
+                "amount": 147444.07
+            },
+            {
+                "time": 1486857600000,
+                "amount": 99211.78
+            },
+            {
+                "time": 1486944000000,
+                "amount": 114889.51
+            },
+            {
+                "time": 1487030400000,
+                "amount": 64478.2
+            },
+            {
+                "time": 1487116800000,
+                "amount": 126755.22
+            },
+            {
+                "time": 1487203200000,
+                "amount": 73351.67
+            },
+            {
+                "time": 1487289600000,
+                "amount": 84233.31
+            },
+            {
+                "time": 1487376000000,
+                "amount": 183453.44
+            },
+            {
+                "time": 1487462400000,
+                "amount": 150485.92
+            },
+            {
+                "time": 1487548800000,
+                "amount": 165678.57
+            },
+            {
+                "time": 1487635200000,
+                "amount": 108603.51
+            },
+            {
+                "time": 1487721600000,
+                "amount": 4377.43
+            },
+            {
+                "time": 1487808000000,
+                "amount": 188203.51
+            },
+            {
+                "time": 1487894400000,
+                "amount": 109711.7
+            },
+            {
+                "time": 1487980800000,
+                "amount": 178517.47
+            },
+            {
+                "time": 1488067200000,
+                "amount": 100652.29
+            },
+            {
+                "time": 1488153600000,
+                "amount": 197500.24
+            },
+            {
+                "time": 1488240000000,
+                "amount": 169765.21
+            },
+            {
+                "time": 1488326400000,
+                "amount": 96290.38
+            },
+            {
+                "time": 1488412800000,
+                "amount": 195358.62
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "team_market_percent": "0.13",
+        "ico_date": "2014-08-03",
+        "vertical": null,
+        "team": "Anonymous, Kevin Mack, Kim Chen Coin",
+        "team_rating": 4,
+        "needs_blockchain": true,
+        "countries_ico_available": "Moldova, Uganda, Finland",
+        "scam_sale_probability": "8.0",
+        "smart_money_investors": "50 Cent",
+        "mining_difficulty": 38,
+        "arbitrage_activity": 3,
+        "created_at": "2018-02-11T18:31:23.054Z",
+        "updated_at": "2018-02-11T18:31:23.054Z",
+        "name": "Ripple",
+        "json_data": null,
+        "link_to_wp": "Ripple.com",
+        "number_of_coins_issued": "99992725510.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "Ripple.com",
+        "coins_issued": "99992725510.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1488499200000,
+                "amount": 5760.85
+            },
+            {
+                "time": 1488585600000,
+                "amount": 176254.18
+            },
+            {
+                "time": 1488672000000,
+                "amount": 72716.11
+            },
+            {
+                "time": 1488758400000,
+                "amount": 173169.31
+            },
+            {
+                "time": 1488844800000,
+                "amount": 181603.49
+            },
+            {
+                "time": 1488931200000,
+                "amount": 25463.04
+            },
+            {
+                "time": 1489017600000,
+                "amount": 137459.84
+            },
+            {
+                "time": 1489104000000,
+                "amount": 180608.37
+            },
+            {
+                "time": 1489190400000,
+                "amount": 28636.48
+            },
+            {
+                "time": 1489276800000,
+                "amount": 102604.3
+            },
+            {
+                "time": 1489359600000,
+                "amount": 124433.94
+            },
+            {
+                "time": 1489446000000,
+                "amount": 113106
+            },
+            {
+                "time": 1489532400000,
+                "amount": 29263.57
+            },
+            {
+                "time": 1489618800000,
+                "amount": 195451.2
+            },
+            {
+                "time": 1489705200000,
+                "amount": 197561.76
+            },
+            {
+                "time": 1489791600000,
+                "amount": 26778.05
+            },
+            {
+                "time": 1489878000000,
+                "amount": 28519.73
+            },
+            {
+                "time": 1489964400000,
+                "amount": 55231.33
+            },
+            {
+                "time": 1490050800000,
+                "amount": 34232.38
+            },
+            {
+                "time": 1490137200000,
+                "amount": 12885.19
+            },
+            {
+                "time": 1490223600000,
+                "amount": 162452.17
+            },
+            {
+                "time": 1490310000000,
+                "amount": 17017.2
+            },
+            {
+                "time": 1490396400000,
+                "amount": 40369.42
+            },
+            {
+                "time": 1490482800000,
+                "amount": 70134.27
+            },
+            {
+                "time": 1490569200000,
+                "amount": 93281.44
+            },
+            {
+                "time": 1490655600000,
+                "amount": 40385.42
+            },
+            {
+                "time": 1490742000000,
+                "amount": 114493.37
+            },
+            {
+                "time": 1490828400000,
+                "amount": 166203.9
+            },
+            {
+                "time": 1490914800000,
+                "amount": 165137.11
+            },
+            {
+                "time": 1491001200000,
+                "amount": 115725.34
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "team_market_percent": "0.79",
+        "ico_date": "2017-01-05",
+        "vertical": null,
+        "team": "Mark Coinberg, 50 Cent",
+        "team_rating": 9,
+        "needs_blockchain": true,
+        "countries_ico_available": "Christmas Island, Cocos (Keeling) Islands, Puerto Rico",
+        "scam_sale_probability": "2.0",
+        "smart_money_investors": "50 Cent",
+        "mining_difficulty": 20,
+        "arbitrage_activity": 72,
+        "created_at": "2018-02-11T18:31:23.100Z",
+        "updated_at": "2018-02-11T18:31:23.100Z",
+        "name": "Bitcoin Cash",
+        "json_data": null,
+        "link_to_wp": "Bitcoin Cash.com",
+        "number_of_coins_issued": "16962088.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "Bitcoin Cash.com",
+        "coins_issued": "16962088.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1491087600000,
+                "amount": 103141.74
+            },
+            {
+                "time": 1491174000000,
+                "amount": 32405.54
+            },
+            {
+                "time": 1491260400000,
+                "amount": 16303.77
+            },
+            {
+                "time": 1491346800000,
+                "amount": 144330.52
+            },
+            {
+                "time": 1491433200000,
+                "amount": 171875.84
+            },
+            {
+                "time": 1491519600000,
+                "amount": 89778.36
+            },
+            {
+                "time": 1491606000000,
+                "amount": 50105.14
+            },
+            {
+                "time": 1491692400000,
+                "amount": 102792.27
+            },
+            {
+                "time": 1491778800000,
+                "amount": 91060.35
+            },
+            {
+                "time": 1491865200000,
+                "amount": 115869.16
+            },
+            {
+                "time": 1491951600000,
+                "amount": 106411.5
+            },
+            {
+                "time": 1492038000000,
+                "amount": 197705.74
+            },
+            {
+                "time": 1492124400000,
+                "amount": 156583.37
+            },
+            {
+                "time": 1492210800000,
+                "amount": 69650.4
+            },
+            {
+                "time": 1492297200000,
+                "amount": 100207.32
+            },
+            {
+                "time": 1492383600000,
+                "amount": 40091.82
+            },
+            {
+                "time": 1492470000000,
+                "amount": 187162.55
+            },
+            {
+                "time": 1492556400000,
+                "amount": 97356.21
+            },
+            {
+                "time": 1492642800000,
+                "amount": 184986.08
+            },
+            {
+                "time": 1492729200000,
+                "amount": 108865.71
+            },
+            {
+                "time": 1492815600000,
+                "amount": 82567.76
+            },
+            {
+                "time": 1492902000000,
+                "amount": 77196.42
+            },
+            {
+                "time": 1492988400000,
+                "amount": 145619.08
+            },
+            {
+                "time": 1493074800000,
+                "amount": 95796.35
+            },
+            {
+                "time": 1493161200000,
+                "amount": 105252.74
+            },
+            {
+                "time": 1493247600000,
+                "amount": 4609.68
+            },
+            {
+                "time": 1493334000000,
+                "amount": 48876.13
+            },
+            {
+                "time": 1493420400000,
+                "amount": 32512.81
+            },
+            {
+                "time": 1493506800000,
+                "amount": 161896.91
+            },
+            {
+                "time": 1493593200000,
+                "amount": 169441.02
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "team_market_percent": "0.16",
+        "ico_date": "2014-04-14",
+        "vertical": null,
+        "team": "Satoshi Coinmoto, Winklevoss",
+        "team_rating": 4,
+        "needs_blockchain": true,
+        "countries_ico_available": "Mauritania, Vietnam, Falkland Islands (Malvinas)",
+        "scam_sale_probability": "6.0",
+        "smart_money_investors": "Mark Cuban",
+        "mining_difficulty": 24,
+        "arbitrage_activity": 16,
+        "created_at": "2018-02-11T18:31:23.122Z",
+        "updated_at": "2018-02-11T18:31:23.122Z",
+        "name": "Cardano",
+        "json_data": null,
+        "link_to_wp": "Cardano.com",
+        "number_of_coins_issued": "31112483745.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "Cardano.com",
+        "coins_issued": "31112483745.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1493679600000,
+                "amount": 153595.77
+            },
+            {
+                "time": 1493766000000,
+                "amount": 29420.62
+            },
+            {
+                "time": 1493852400000,
+                "amount": 14333.6
+            },
+            {
+                "time": 1493938800000,
+                "amount": 187860.87
+            },
+            {
+                "time": 1494025200000,
+                "amount": 151285.75
+            },
+            {
+                "time": 1494111600000,
+                "amount": 144136.34
+            },
+            {
+                "time": 1494198000000,
+                "amount": 58050.59
+            },
+            {
+                "time": 1494284400000,
+                "amount": 195824.71
+            },
+            {
+                "time": 1494370800000,
+                "amount": 102639.06
+            },
+            {
+                "time": 1494457200000,
+                "amount": 132839.37
+            },
+            {
+                "time": 1494543600000,
+                "amount": 139526.71
+            },
+            {
+                "time": 1494630000000,
+                "amount": 132728.69
+            },
+            {
+                "time": 1494716400000,
+                "amount": 136348.2
+            },
+            {
+                "time": 1494802800000,
+                "amount": 54487.97
+            },
+            {
+                "time": 1494889200000,
+                "amount": 80732.81
+            },
+            {
+                "time": 1494975600000,
+                "amount": 29898.76
+            },
+            {
+                "time": 1495062000000,
+                "amount": 49879.73
+            },
+            {
+                "time": 1495148400000,
+                "amount": 45152.07
+            },
+            {
+                "time": 1495234800000,
+                "amount": 152146.31
+            },
+            {
+                "time": 1495321200000,
+                "amount": 106670
+            },
+            {
+                "time": 1495407600000,
+                "amount": 192904.17
+            },
+            {
+                "time": 1495494000000,
+                "amount": 135047.1
+            },
+            {
+                "time": 1495580400000,
+                "amount": 84509.19
+            },
+            {
+                "time": 1495666800000,
+                "amount": 194720.92
+            },
+            {
+                "time": 1495753200000,
+                "amount": 144949.79
+            },
+            {
+                "time": 1495839600000,
+                "amount": 95940.01
+            },
+            {
+                "time": 1495926000000,
+                "amount": 118015.84
+            },
+            {
+                "time": 1496012400000,
+                "amount": 116357.17
+            },
+            {
+                "time": 1496098800000,
+                "amount": 58836.09
+            },
+            {
+                "time": 1496185200000,
+                "amount": 98693.62
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "team_market_percent": "0.39",
+        "ico_date": "2013-12-05",
+        "vertical": null,
+        "team": "Kevin Mack, Moon Hodl",
+        "team_rating": 0,
+        "needs_blockchain": false,
+        "countries_ico_available": "Benin, Macao, Liechtenstein",
+        "scam_sale_probability": "1.0",
+        "smart_money_investors": "Mark Cuban",
+        "mining_difficulty": 97,
+        "arbitrage_activity": 0,
+        "created_at": "2018-02-11T18:31:23.148Z",
+        "updated_at": "2018-02-11T18:31:23.148Z",
+        "name": "Litecoin",
+        "json_data": null,
+        "link_to_wp": "Litecoin.com",
+        "number_of_coins_issued": "55171883.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "Litecoin.com",
+        "coins_issued": "55171883.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1496271600000,
+                "amount": 16491.65
+            },
+            {
+                "time": 1496358000000,
+                "amount": 50481.18
+            },
+            {
+                "time": 1496444400000,
+                "amount": 153219.9
+            },
+            {
+                "time": 1496530800000,
+                "amount": 59249.92
+            },
+            {
+                "time": 1496617200000,
+                "amount": 176797.16
+            },
+            {
+                "time": 1496703600000,
+                "amount": 199047.32
+            },
+            {
+                "time": 1496790000000,
+                "amount": 153935.61
+            },
+            {
+                "time": 1496876400000,
+                "amount": 187895.03
+            },
+            {
+                "time": 1496962800000,
+                "amount": 29420.88
+            },
+            {
+                "time": 1497049200000,
+                "amount": 47173.31
+            },
+            {
+                "time": 1497135600000,
+                "amount": 51806.66
+            },
+            {
+                "time": 1497222000000,
+                "amount": 79801.82
+            },
+            {
+                "time": 1497308400000,
+                "amount": 117685.71
+            },
+            {
+                "time": 1497394800000,
+                "amount": 62480.79
+            },
+            {
+                "time": 1497481200000,
+                "amount": 148850.77
+            },
+            {
+                "time": 1497567600000,
+                "amount": 144042.35
+            },
+            {
+                "time": 1497654000000,
+                "amount": 34760.43
+            },
+            {
+                "time": 1497740400000,
+                "amount": 74664.54
+            },
+            {
+                "time": 1497826800000,
+                "amount": 51769.59
+            },
+            {
+                "time": 1497913200000,
+                "amount": 129081.74
+            },
+            {
+                "time": 1497999600000,
+                "amount": 72465.7
+            },
+            {
+                "time": 1498086000000,
+                "amount": 157340.77
+            },
+            {
+                "time": 1498172400000,
+                "amount": 48514
+            },
+            {
+                "time": 1498258800000,
+                "amount": 34621.5
+            },
+            {
+                "time": 1498345200000,
+                "amount": 21374.85
+            },
+            {
+                "time": 1498431600000,
+                "amount": 124545.73
+            },
+            {
+                "time": 1498518000000,
+                "amount": 48636.31
+            },
+            {
+                "time": 1498604400000,
+                "amount": 7403.82
+            },
+            {
+                "time": 1498690800000,
+                "amount": 115028.46
+            },
+            {
+                "time": 1498777200000,
+                "amount": 7180.56
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "team_market_percent": "0.77",
+        "ico_date": "2015-03-16",
+        "vertical": null,
+        "team": "Mark Cuban, Kim Chen Coin, Winklevoss, Mark Coinberg, Kevin Mack",
+        "team_rating": 4,
+        "needs_blockchain": true,
+        "countries_ico_available": "Norway, Norway, Faroe Islands",
+        "scam_sale_probability": "4.0",
+        "smart_money_investors": "50 Cent",
+        "mining_difficulty": 86,
+        "arbitrage_activity": 77,
+        "created_at": "2018-02-11T18:31:23.188Z",
+        "updated_at": "2018-02-11T18:31:23.188Z",
+        "name": "NEO",
+        "json_data": null,
+        "link_to_wp": "NEO.com",
+        "number_of_coins_issued": "100000000.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "NEO.com",
+        "coins_issued": "100000000.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1498863600000,
+                "amount": 169257.37
+            },
+            {
+                "time": 1498950000000,
+                "amount": 108910.54
+            },
+            {
+                "time": 1499036400000,
+                "amount": 183293.46
+            },
+            {
+                "time": 1499122800000,
+                "amount": 18847.46
+            },
+            {
+                "time": 1499209200000,
+                "amount": 106709.05
+            },
+            {
+                "time": 1499295600000,
+                "amount": 171809.03
+            },
+            {
+                "time": 1499382000000,
+                "amount": 78411.01
+            },
+            {
+                "time": 1499468400000,
+                "amount": 37708.54
+            },
+            {
+                "time": 1499554800000,
+                "amount": 111762.52
+            },
+            {
+                "time": 1499641200000,
+                "amount": 22135.51
+            },
+            {
+                "time": 1499727600000,
+                "amount": 78445.53
+            },
+            {
+                "time": 1499814000000,
+                "amount": 127552.66
+            },
+            {
+                "time": 1499900400000,
+                "amount": 90086.52
+            },
+            {
+                "time": 1499986800000,
+                "amount": 49193.11
+            },
+            {
+                "time": 1500073200000,
+                "amount": 144463.04
+            },
+            {
+                "time": 1500159600000,
+                "amount": 69110.63
+            },
+            {
+                "time": 1500246000000,
+                "amount": 128939.51
+            },
+            {
+                "time": 1500332400000,
+                "amount": 119232.41
+            },
+            {
+                "time": 1500418800000,
+                "amount": 27244.95
+            },
+            {
+                "time": 1500505200000,
+                "amount": 154649.01
+            },
+            {
+                "time": 1500591600000,
+                "amount": 8785.46
+            },
+            {
+                "time": 1500678000000,
+                "amount": 124815.07
+            },
+            {
+                "time": 1500764400000,
+                "amount": 165293.07
+            },
+            {
+                "time": 1500850800000,
+                "amount": 174517.93
+            },
+            {
+                "time": 1500937200000,
+                "amount": 83856.16
+            },
+            {
+                "time": 1501023600000,
+                "amount": 62160.63
+            },
+            {
+                "time": 1501110000000,
+                "amount": 18422.42
+            },
+            {
+                "time": 1501196400000,
+                "amount": 86424.49
+            },
+            {
+                "time": 1501282800000,
+                "amount": 75504.71
+            },
+            {
+                "time": 1501369200000,
+                "amount": 173544.84
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "team_market_percent": "0.45",
+        "ico_date": "2014-09-05",
+        "vertical": null,
+        "team": "Moon Hodl, Mark Cuban, Winklevoss, Anonymous",
+        "team_rating": 8,
+        "needs_blockchain": false,
+        "countries_ico_available": "Armenia, Virgin Islands, British, Kyrgyz Republic",
+        "scam_sale_probability": "7.0",
+        "smart_money_investors": "Chuck Norris",
+        "mining_difficulty": 7,
+        "arbitrage_activity": 59,
+        "created_at": "2018-02-11T18:31:23.232Z",
+        "updated_at": "2018-02-11T18:31:23.232Z",
+        "name": "Stellar",
+        "json_data": null,
+        "link_to_wp": "Stellar.com",
+        "number_of_coins_issued": "103669352049",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "Stellar.com",
+        "coins_issued": "103669352049",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1501455600000,
+                "amount": 62596.46
+            },
+            {
+                "time": 1501542000000,
+                "amount": 149983.01
+            },
+            {
+                "time": 1501628400000,
+                "amount": 112523.24
+            },
+            {
+                "time": 1501714800000,
+                "amount": 102618.22
+            },
+            {
+                "time": 1501801200000,
+                "amount": 184511.9
+            },
+            {
+                "time": 1501887600000,
+                "amount": 170981.11
+            },
+            {
+                "time": 1501974000000,
+                "amount": 178543.93
+            },
+            {
+                "time": 1502060400000,
+                "amount": 64766.23
+            },
+            {
+                "time": 1502146800000,
+                "amount": 114661.48
+            },
+            {
+                "time": 1502233200000,
+                "amount": 71947.7
+            },
+            {
+                "time": 1502319600000,
+                "amount": 33473.48
+            },
+            {
+                "time": 1502406000000,
+                "amount": 118988.69
+            },
+            {
+                "time": 1502492400000,
+                "amount": 107236.79
+            },
+            {
+                "time": 1502578800000,
+                "amount": 163145.54
+            },
+            {
+                "time": 1502665200000,
+                "amount": 32831.83
+            },
+            {
+                "time": 1502751600000,
+                "amount": 71298.12
+            },
+            {
+                "time": 1502838000000,
+                "amount": 60743.84
+            },
+            {
+                "time": 1502924400000,
+                "amount": 188159.18
+            },
+            {
+                "time": 1503010800000,
+                "amount": 40302.36
+            },
+            {
+                "time": 1503097200000,
+                "amount": 136084.03
+            },
+            {
+                "time": 1503183600000,
+                "amount": 119321.04
+            },
+            {
+                "time": 1503270000000,
+                "amount": 30451.15
+            },
+            {
+                "time": 1503356400000,
+                "amount": 142536.49
+            },
+            {
+                "time": 1503442800000,
+                "amount": 188635.52
+            },
+            {
+                "time": 1503529200000,
+                "amount": 136141.55
+            },
+            {
+                "time": 1503615600000,
+                "amount": 112979.56
+            },
+            {
+                "time": 1503702000000,
+                "amount": 151049.36
+            },
+            {
+                "time": 1503788400000,
+                "amount": 133789.69
+            },
+            {
+                "time": 1503874800000,
+                "amount": 59912.84
+            },
+            {
+                "time": 1503961200000,
+                "amount": 2654.25
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "team_market_percent": "0.4",
+        "ico_date": "2014-06-13",
+        "vertical": null,
+        "team": "Moon Hodl, Mark Coinberg",
+        "team_rating": 3,
+        "needs_blockchain": false,
+        "countries_ico_available": "Guinea-Bissau, Lithuania, Vanuatu",
+        "scam_sale_probability": "3.0",
+        "smart_money_investors": "50 Cent",
+        "mining_difficulty": 20,
+        "arbitrage_activity": 91,
+        "created_at": "2018-02-11T18:31:23.266Z",
+        "updated_at": "2018-02-11T18:31:23.266Z",
+        "name": "EOS",
+        "json_data": null,
+        "link_to_wp": "EOS.com",
+        "number_of_coins_issued": "900000000.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "EOS.com",
+        "coins_issued": "900000000.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1504047600000,
+                "amount": 123931.02
+            },
+            {
+                "time": 1504134000000,
+                "amount": 62846.01
+            },
+            {
+                "time": 1504220400000,
+                "amount": 129789.28
+            },
+            {
+                "time": 1504306800000,
+                "amount": 166875.19
+            },
+            {
+                "time": 1504393200000,
+                "amount": 117360.39
+            },
+            {
+                "time": 1504479600000,
+                "amount": 79382.26
+            },
+            {
+                "time": 1504566000000,
+                "amount": 11456.92
+            },
+            {
+                "time": 1504652400000,
+                "amount": 113312.04
+            },
+            {
+                "time": 1504738800000,
+                "amount": 29352.16
+            },
+            {
+                "time": 1504825200000,
+                "amount": 85711.37
+            },
+            {
+                "time": 1504911600000,
+                "amount": 115698.2
+            },
+            {
+                "time": 1504998000000,
+                "amount": 59198.07
+            },
+            {
+                "time": 1505084400000,
+                "amount": 150410.11
+            },
+            {
+                "time": 1505170800000,
+                "amount": 91869.64
+            },
+            {
+                "time": 1505257200000,
+                "amount": 174071.19
+            },
+            {
+                "time": 1505343600000,
+                "amount": 134495
+            },
+            {
+                "time": 1505430000000,
+                "amount": 64307.82
+            },
+            {
+                "time": 1505516400000,
+                "amount": 7040.5
+            },
+            {
+                "time": 1505602800000,
+                "amount": 87061.74
+            },
+            {
+                "time": 1505689200000,
+                "amount": 137225.55
+            },
+            {
+                "time": 1505775600000,
+                "amount": 116871.1
+            },
+            {
+                "time": 1505862000000,
+                "amount": 162097.28
+            },
+            {
+                "time": 1505948400000,
+                "amount": 187611.55
+            },
+            {
+                "time": 1506034800000,
+                "amount": 162374.76
+            },
+            {
+                "time": 1506121200000,
+                "amount": 102490.63
+            },
+            {
+                "time": 1506207600000,
+                "amount": 176568
+            },
+            {
+                "time": 1506294000000,
+                "amount": 86709.89
+            },
+            {
+                "time": 1506380400000,
+                "amount": 90920.79
+            },
+            {
+                "time": 1506466800000,
+                "amount": 91694.51
+            },
+            {
+                "time": 1506553200000,
+                "amount": 176266.84
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "team_market_percent": "0.41",
+        "ico_date": "2013-12-14",
+        "vertical": null,
+        "team": "Kevin Mack, Anonymous, Satoshi Coinmoto, Kim Chen Coin, Mark Coinberg",
+        "team_rating": 7,
+        "needs_blockchain": true,
+        "countries_ico_available": "Mali, Bermuda, Republic of Korea",
+        "scam_sale_probability": "4.0",
+        "smart_money_investors": "50 Cent",
+        "mining_difficulty": 95,
+        "arbitrage_activity": 37,
+        "created_at": "2018-02-11T18:31:23.304Z",
+        "updated_at": "2018-02-11T18:31:23.304Z",
+        "name": "IOTA",
+        "json_data": null,
+        "link_to_wp": "IOTA.com",
+        "number_of_coins_issued": "2779530283.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "IOTA.com",
+        "coins_issued": "2779530283.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1506639600000,
+                "amount": 24180.94
+            },
+            {
+                "time": 1506726000000,
+                "amount": 58169.08
+            },
+            {
+                "time": 1506812400000,
+                "amount": 58122.21
+            },
+            {
+                "time": 1506898800000,
+                "amount": 14481.67
+            },
+            {
+                "time": 1506985200000,
+                "amount": 49622.69
+            },
+            {
+                "time": 1507071600000,
+                "amount": 72020.01
+            },
+            {
+                "time": 1507158000000,
+                "amount": 45820.43
+            },
+            {
+                "time": 1507244400000,
+                "amount": 176547.58
+            },
+            {
+                "time": 1507330800000,
+                "amount": 148322.47
+            },
+            {
+                "time": 1507417200000,
+                "amount": 199648.77
+            },
+            {
+                "time": 1507503600000,
+                "amount": 192508.51
+            },
+            {
+                "time": 1507590000000,
+                "amount": 63465.97
+            },
+            {
+                "time": 1507676400000,
+                "amount": 113721.42
+            },
+            {
+                "time": 1507762800000,
+                "amount": 56318.78
+            },
+            {
+                "time": 1507849200000,
+                "amount": 198320.8
+            },
+            {
+                "time": 1507935600000,
+                "amount": 118591.87
+            },
+            {
+                "time": 1508022000000,
+                "amount": 32592.98
+            },
+            {
+                "time": 1508108400000,
+                "amount": 30803.62
+            },
+            {
+                "time": 1508194800000,
+                "amount": 96499.93
+            },
+            {
+                "time": 1508281200000,
+                "amount": 198250.16
+            },
+            {
+                "time": 1508367600000,
+                "amount": 198088.21
+            },
+            {
+                "time": 1508454000000,
+                "amount": 192119.84
+            },
+            {
+                "time": 1508540400000,
+                "amount": 187949.59
+            },
+            {
+                "time": 1508626800000,
+                "amount": 132054.97
+            },
+            {
+                "time": 1508713200000,
+                "amount": 74641.1
+            },
+            {
+                "time": 1508799600000,
+                "amount": 86579.6
+            },
+            {
+                "time": 1508886000000,
+                "amount": 54260.76
+            },
+            {
+                "time": 1508972400000,
+                "amount": 145446.39
+            },
+            {
+                "time": 1509058800000,
+                "amount": 183293.97
+            },
+            {
+                "time": 1509145200000,
+                "amount": 177841.59
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "team_market_percent": "0.63",
+        "ico_date": "2013-04-29",
+        "vertical": null,
+        "team": "Kim Chen Coin, Winklevoss, Anonymous",
+        "team_rating": 7,
+        "needs_blockchain": false,
+        "countries_ico_available": "South Georgia and the South Sandwich Islands, Estonia, Aruba",
+        "scam_sale_probability": "9.0",
+        "smart_money_investors": "Mark Cuban",
+        "mining_difficulty": 88,
+        "arbitrage_activity": 52,
+        "created_at": "2018-02-11T18:31:23.338Z",
+        "updated_at": "2018-02-11T18:31:23.338Z",
+        "name": "NEM",
+        "json_data": null,
+        "link_to_wp": "NEM.com",
+        "number_of_coins_issued": "8999999999.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "NEM.com",
+        "coins_issued": "8999999999.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1509231600000,
+                "amount": 87944.66
+            },
+            {
+                "time": 1509318000000,
+                "amount": 20010.79
+            },
+            {
+                "time": 1509404400000,
+                "amount": 110259.29
+            },
+            {
+                "time": 1509490800000,
+                "amount": 110347.53
+            },
+            {
+                "time": 1509577200000,
+                "amount": 179716.4
+            },
+            {
+                "time": 1509663600000,
+                "amount": 115233.15
+            },
+            {
+                "time": 1509750000000,
+                "amount": 105046.68
+            },
+            {
+                "time": 1509836400000,
+                "amount": 31559.87
+            },
+            {
+                "time": 1509926400000,
+                "amount": 48839.4
+            },
+            {
+                "time": 1510012800000,
+                "amount": 23788.16
+            },
+            {
+                "time": 1510099200000,
+                "amount": 41876.52
+            },
+            {
+                "time": 1510185600000,
+                "amount": 34451.47
+            },
+            {
+                "time": 1510272000000,
+                "amount": 53410.59
+            },
+            {
+                "time": 1510358400000,
+                "amount": 89578.25
+            },
+            {
+                "time": 1510444800000,
+                "amount": 74365.62
+            },
+            {
+                "time": 1510531200000,
+                "amount": 3804.78
+            },
+            {
+                "time": 1510617600000,
+                "amount": 105501.27
+            },
+            {
+                "time": 1510704000000,
+                "amount": 26881.08
+            },
+            {
+                "time": 1510790400000,
+                "amount": 183712.4
+            },
+            {
+                "time": 1510876800000,
+                "amount": 177192.88
+            },
+            {
+                "time": 1510963200000,
+                "amount": 116311.28
+            },
+            {
+                "time": 1511049600000,
+                "amount": 131568.91
+            },
+            {
+                "time": 1511136000000,
+                "amount": 22643.11
+            },
+            {
+                "time": 1511222400000,
+                "amount": 125342.95
+            },
+            {
+                "time": 1511308800000,
+                "amount": 150848.56
+            },
+            {
+                "time": 1511395200000,
+                "amount": 127866.09
+            },
+            {
+                "time": 1511481600000,
+                "amount": 56584.96
+            },
+            {
+                "time": 1511568000000,
+                "amount": 113658.54
+            },
+            {
+                "time": 1511654400000,
+                "amount": 56271.74
+            },
+            {
+                "time": 1511740800000,
+                "amount": 54099.81
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "team_market_percent": "0.71",
+        "ico_date": "2016-07-20",
+        "vertical": null,
+        "team": "Kim Chen Coin, Moon Hodl, Mark Cuban, Mark Coinberg, Winklevoss",
+        "team_rating": 7,
+        "needs_blockchain": false,
+        "countries_ico_available": "Yemen, Tunisia, India",
+        "scam_sale_probability": "8.0",
+        "smart_money_investors": "Mark Cuban",
+        "mining_difficulty": 38,
+        "arbitrage_activity": 59,
+        "created_at": "2018-02-11T18:31:23.365Z",
+        "updated_at": "2018-02-11T18:31:23.365Z",
+        "name": "Dash",
+        "json_data": null,
+        "link_to_wp": "Dash.com",
+        "number_of_coins_issued": "7878220.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "Dash.com",
+        "coins_issued": "7878220.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1511827200000,
+                "amount": 118041.33
+            },
+            {
+                "time": 1511913600000,
+                "amount": 167175.5
+            },
+            {
+                "time": 1512000000000,
+                "amount": 167518.08
+            },
+            {
+                "time": 1512086400000,
+                "amount": 137322.75
+            },
+            {
+                "time": 1512172800000,
+                "amount": 194663.24
+            },
+            {
+                "time": 1512259200000,
+                "amount": 155469.93
+            },
+            {
+                "time": 1512345600000,
+                "amount": 80050.77
+            },
+            {
+                "time": 1512432000000,
+                "amount": 164163.54
+            },
+            {
+                "time": 1512518400000,
+                "amount": 97170.02
+            },
+            {
+                "time": 1512604800000,
+                "amount": 181812.88
+            },
+            {
+                "time": 1512691200000,
+                "amount": 153470.43
+            },
+            {
+                "time": 1512777600000,
+                "amount": 103072.84
+            },
+            {
+                "time": 1512864000000,
+                "amount": 136968.71
+            },
+            {
+                "time": 1512950400000,
+                "amount": 59276.21
+            },
+            {
+                "time": 1513036800000,
+                "amount": 115353.89
+            },
+            {
+                "time": 1513123200000,
+                "amount": 102121.65
+            },
+            {
+                "time": 1513209600000,
+                "amount": 92985.07
+            },
+            {
+                "time": 1513296000000,
+                "amount": 138583.75
+            },
+            {
+                "time": 1513382400000,
+                "amount": 69709.95
+            },
+            {
+                "time": 1513468800000,
+                "amount": 175152.14
+            },
+            {
+                "time": 1513555200000,
+                "amount": 11357.08
+            },
+            {
+                "time": 1513641600000,
+                "amount": 65061.66
+            },
+            {
+                "time": 1513728000000,
+                "amount": 34063.76
+            },
+            {
+                "time": 1513814400000,
+                "amount": 37489.61
+            },
+            {
+                "time": 1513900800000,
+                "amount": 172347.61
+            },
+            {
+                "time": 1513987200000,
+                "amount": 90649.25
+            },
+            {
+                "time": 1514073600000,
+                "amount": 13154.49
+            },
+            {
+                "time": 1514160000000,
+                "amount": 4032.51
+            },
+            {
+                "time": 1514246400000,
+                "amount": 191374.54
+            },
+            {
+                "time": 1514332800000,
+                "amount": 140872.56
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "team_market_percent": "0.45",
+        "ico_date": "2017-05-06",
+        "vertical": null,
+        "team": "Mark Cuban, Paris Hilton, Mark Coinberg, 50 Cent, Winklevoss",
+        "team_rating": 3,
+        "needs_blockchain": true,
+        "countries_ico_available": "Saint Martin, Tanzania, Cocos (Keeling) Islands",
+        "scam_sale_probability": "0.0",
+        "smart_money_investors": "50 Cent",
+        "mining_difficulty": 52,
+        "arbitrage_activity": 38,
+        "created_at": "2018-02-11T18:31:23.391Z",
+        "updated_at": "2018-02-11T18:31:23.391Z",
+        "name": "Monero",
+        "json_data": null,
+        "link_to_wp": "Monero.com",
+        "number_of_coins_issued": "15710020.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "Monero.com",
+        "coins_issued": "15710020.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1514419200000,
+                "amount": 55487.69
+            },
+            {
+                "time": 1514505600000,
+                "amount": 166373.88
+            },
+            {
+                "time": 1514592000000,
+                "amount": 48837.13
+            },
+            {
+                "time": 1514678400000,
+                "amount": 158104.11
+            },
+            {
+                "time": 1514764800000,
+                "amount": 173929.37
+            },
+            {
+                "time": 1514851200000,
+                "amount": 132155.93
+            },
+            {
+                "time": 1514937600000,
+                "amount": 32103.37
+            },
+            {
+                "time": 1515024000000,
+                "amount": 195911.01
+            },
+            {
+                "time": 1515110400000,
+                "amount": 16859.11
+            },
+            {
+                "time": 1515196800000,
+                "amount": 118743.07
+            },
+            {
+                "time": 1515283200000,
+                "amount": 43030.9
+            },
+            {
+                "time": 1515369600000,
+                "amount": 3456.06
+            },
+            {
+                "time": 1515456000000,
+                "amount": 163782.43
+            },
+            {
+                "time": 1515542400000,
+                "amount": 43814.92
+            },
+            {
+                "time": 1515628800000,
+                "amount": 71155.98
+            },
+            {
+                "time": 1515715200000,
+                "amount": 137105.39
+            },
+            {
+                "time": 1515801600000,
+                "amount": 27764.17
+            },
+            {
+                "time": 1515888000000,
+                "amount": 192235.79
+            },
+            {
+                "time": 1515974400000,
+                "amount": 101821.24
+            },
+            {
+                "time": 1516060800000,
+                "amount": 158899.92
+            },
+            {
+                "time": 1516147200000,
+                "amount": 52422.93
+            },
+            {
+                "time": 1516233600000,
+                "amount": 101067.38
+            },
+            {
+                "time": 1516320000000,
+                "amount": 126567.24
+            },
+            {
+                "time": 1516406400000,
+                "amount": 80443.07
+            },
+            {
+                "time": 1516492800000,
+                "amount": 111993.43
+            },
+            {
+                "time": 1516579200000,
+                "amount": 73714.19
+            },
+            {
+                "time": 1516665600000,
+                "amount": 96941.37
+            },
+            {
+                "time": 1516752000000,
+                "amount": 153185.02
+            },
+            {
+                "time": 1516838400000,
+                "amount": 103388.1
+            },
+            {
+                "time": 1516924800000,
+                "amount": 102045.57
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "team_market_percent": "0.15",
+        "ico_date": "2016-01-21",
+        "vertical": null,
+        "team": "Anonymous, Moon Hodl, Winklevoss, Satoshi Coinmoto, Mark Coinberg",
+        "team_rating": 4,
+        "needs_blockchain": false,
+        "countries_ico_available": "New Zealand, Montenegro, Uzbekistan",
+        "scam_sale_probability": "3.0",
+        "smart_money_investors": "Mark Cuban",
+        "mining_difficulty": 18,
+        "arbitrage_activity": 16,
+        "created_at": "2018-02-11T18:31:23.420Z",
+        "updated_at": "2018-02-11T18:31:23.420Z",
+        "name": "Lisk",
+        "json_data": null,
+        "link_to_wp": "Lisk.com",
+        "number_of_coins_issued": "117961172.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "Lisk.com",
+        "coins_issued": "117961172.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1517011200000,
+                "amount": 87630.48
+            },
+            {
+                "time": 1517097600000,
+                "amount": 183753.04
+            },
+            {
+                "time": 1517184000000,
+                "amount": 130426.89
+            },
+            {
+                "time": 1517270400000,
+                "amount": 171777.2
+            },
+            {
+                "time": 1517356800000,
+                "amount": 25223.37
+            },
+            {
+                "time": 1517443200000,
+                "amount": 61946.94
+            },
+            {
+                "time": 1517529600000,
+                "amount": 34814.14
+            },
+            {
+                "time": 1517616000000,
+                "amount": 167166.85
+            },
+            {
+                "time": 1517702400000,
+                "amount": 112113.69
+            },
+            {
+                "time": 1517788800000,
+                "amount": 38796.22
+            },
+            {
+                "time": 1517875200000,
+                "amount": 18243.11
+            },
+            {
+                "time": 1517961600000,
+                "amount": 72297.9
+            },
+            {
+                "time": 1518048000000,
+                "amount": 64199.07
+            },
+            {
+                "time": 1518134400000,
+                "amount": 74785.27
+            },
+            {
+                "time": 1518220800000,
+                "amount": 33885.46
+            },
+            {
+                "time": 1518307200000,
+                "amount": 56818.28
+            },
+            {
+                "time": 1518393600000,
+                "amount": 91496.38
+            },
+            {
+                "time": 1518480000000,
+                "amount": 170496.98
+            },
+            {
+                "time": 1518566400000,
+                "amount": 55687.43
+            },
+            {
+                "time": 1518652800000,
+                "amount": 115354.93
+            },
+            {
+                "time": 1518739200000,
+                "amount": 131156.93
+            },
+            {
+                "time": 1518825600000,
+                "amount": 119844.54
+            },
+            {
+                "time": 1518912000000,
+                "amount": 58144.97
+            },
+            {
+                "time": 1518998400000,
+                "amount": 64129.14
+            },
+            {
+                "time": 1519084800000,
+                "amount": 186850.29
+            },
+            {
+                "time": 1519171200000,
+                "amount": 42278.32
+            },
+            {
+                "time": 1519257600000,
+                "amount": 38977.96
+            },
+            {
+                "time": 1519344000000,
+                "amount": 148992.75
+            },
+            {
+                "time": 1519430400000,
+                "amount": 140036.19
+            },
+            {
+                "time": 1519516800000,
+                "amount": 111565.06
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "team_market_percent": "0.99",
+        "ico_date": "2016-02-24",
+        "vertical": null,
+        "team": "50 Cent, Anonymous, Winklevoss",
+        "team_rating": 6,
+        "needs_blockchain": true,
+        "countries_ico_available": "Maldives, India, Suriname",
+        "scam_sale_probability": "8.0",
+        "smart_money_investors": "50 Cent",
+        "mining_difficulty": 45,
+        "arbitrage_activity": 43,
+        "created_at": "2018-02-11T18:31:23.452Z",
+        "updated_at": "2018-02-11T18:31:23.452Z",
+        "name": "TRON",
+        "json_data": null,
+        "link_to_wp": "TRON.com",
+        "number_of_coins_issued": "100000000000",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "TRON.com",
+        "coins_issued": "100000000000",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1519603200000,
+                "amount": 47193.57
+            },
+            {
+                "time": 1519689600000,
+                "amount": 164627.85
+            },
+            {
+                "time": 1519776000000,
+                "amount": 127913.26
+            },
+            {
+                "time": 1519862400000,
+                "amount": 70655.67
+            },
+            {
+                "time": 1519948800000,
+                "amount": 153300.6
+            },
+            {
+                "time": 1520035200000,
+                "amount": 60441.54
+            },
+            {
+                "time": 1520121600000,
+                "amount": 56510.03
+            },
+            {
+                "time": 1520208000000,
+                "amount": 106336.9
+            },
+            {
+                "time": 1520294400000,
+                "amount": 58477.28
+            },
+            {
+                "time": 1520380800000,
+                "amount": 196405.55
+            },
+            {
+                "time": 1520467200000,
+                "amount": 87209.34
+            },
+            {
+                "time": 1520553600000,
+                "amount": 56183.27
+            },
+            {
+                "time": 1520640000000,
+                "amount": 33929.21
+            },
+            {
+                "time": 1520726400000,
+                "amount": 148848.84
+            },
+            {
+                "time": 1520809200000,
+                "amount": 80274.93
+            },
+            {
+                "time": 1520895600000,
+                "amount": 153856.28
+            },
+            {
+                "time": 1520982000000,
+                "amount": 407.25
+            },
+            {
+                "time": 1521068400000,
+                "amount": 15934.23
+            },
+            {
+                "time": 1521154800000,
+                "amount": 44321.39
+            },
+            {
+                "time": 1521241200000,
+                "amount": 77999.48
+            },
+            {
+                "time": 1521327600000,
+                "amount": 121102.01
+            },
+            {
+                "time": 1521414000000,
+                "amount": 89423.09
+            },
+            {
+                "time": 1521500400000,
+                "amount": 25133.25
+            },
+            {
+                "time": 1521586800000,
+                "amount": 17516.5
+            },
+            {
+                "time": 1521673200000,
+                "amount": 180721.35
+            },
+            {
+                "time": 1521759600000,
+                "amount": 143028.46
+            },
+            {
+                "time": 1521846000000,
+                "amount": 32384.64
+            },
+            {
+                "time": 1521932400000,
+                "amount": 69152.69
+            },
+            {
+                "time": 1522018800000,
+                "amount": 182289.45
+            },
+            {
+                "time": 1522105200000,
+                "amount": 136101.58
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "team_market_percent": "0.96",
+        "ico_date": "2015-05-03",
+        "vertical": null,
+        "team": "Moon Hodl, Kevin Mack, Paris Hilton, Mark Coinberg",
+        "team_rating": 4,
+        "needs_blockchain": false,
+        "countries_ico_available": "Nauru, Congo, Turkmenistan",
+        "scam_sale_probability": "9.0",
+        "smart_money_investors": "Chuck Norris",
+        "mining_difficulty": 49,
+        "arbitrage_activity": 76,
+        "created_at": "2018-02-11T18:31:23.480Z",
+        "updated_at": "2018-02-11T18:31:23.480Z",
+        "name": "Ethereum Classic",
+        "json_data": null,
+        "link_to_wp": "Ethereum Classic.com",
+        "number_of_coins_issued": "99783381.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "Ethereum Classic.com",
+        "coins_issued": "99783381.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1522191600000,
+                "amount": 42250.86
+            },
+            {
+                "time": 1522278000000,
+                "amount": 39455.82
+            },
+            {
+                "time": 1522364400000,
+                "amount": 146959.9
+            },
+            {
+                "time": 1522450800000,
+                "amount": 107109.12
+            },
+            {
+                "time": 1522537200000,
+                "amount": 112317.57
+            },
+            {
+                "time": 1522623600000,
+                "amount": 123670.73
+            },
+            {
+                "time": 1522710000000,
+                "amount": 58107.78
+            },
+            {
+                "time": 1522796400000,
+                "amount": 8449.65
+            },
+            {
+                "time": 1522882800000,
+                "amount": 23548.45
+            },
+            {
+                "time": 1522969200000,
+                "amount": 157584.77
+            },
+            {
+                "time": 1523055600000,
+                "amount": 57781.12
+            },
+            {
+                "time": 1523142000000,
+                "amount": 41395.71
+            },
+            {
+                "time": 1523228400000,
+                "amount": 6623.79
+            },
+            {
+                "time": 1523314800000,
+                "amount": 182274.19
+            },
+            {
+                "time": 1523401200000,
+                "amount": 40001.62
+            },
+            {
+                "time": 1523487600000,
+                "amount": 4565.49
+            },
+            {
+                "time": 1523574000000,
+                "amount": 163481.43
+            },
+            {
+                "time": 1523660400000,
+                "amount": 34038.7
+            },
+            {
+                "time": 1523746800000,
+                "amount": 118223.2
+            },
+            {
+                "time": 1523833200000,
+                "amount": 68441.08
+            },
+            {
+                "time": 1523919600000,
+                "amount": 178855.05
+            },
+            {
+                "time": 1524006000000,
+                "amount": 178610.91
+            },
+            {
+                "time": 1524092400000,
+                "amount": 156410.6
+            },
+            {
+                "time": 1524178800000,
+                "amount": 135966.73
+            },
+            {
+                "time": 1524265200000,
+                "amount": 197401.74
+            },
+            {
+                "time": 1524351600000,
+                "amount": 89213.87
+            },
+            {
+                "time": 1524438000000,
+                "amount": 27015.99
+            },
+            {
+                "time": 1524524400000,
+                "amount": 128429.09
+            },
+            {
+                "time": 1524610800000,
+                "amount": 146796.44
+            },
+            {
+                "time": 1524697200000,
+                "amount": 57659.86
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "team_market_percent": "0.58",
+        "ico_date": "2015-07-04",
+        "vertical": null,
+        "team": "Paris Hilton, 50 Cent, Kevin Mack, Moon Hodl",
+        "team_rating": 9,
+        "needs_blockchain": true,
+        "countries_ico_available": "France, Lithuania, Guinea",
+        "scam_sale_probability": "5.0",
+        "smart_money_investors": "Chuck Norris",
+        "mining_difficulty": 83,
+        "arbitrage_activity": 59,
+        "created_at": "2018-02-11T18:31:23.517Z",
+        "updated_at": "2018-02-11T18:31:23.517Z",
+        "name": "Tether",
+        "json_data": null,
+        "link_to_wp": "Tether.com",
+        "number_of_coins_issued": "2280109970.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "Tether.com",
+        "coins_issued": "2280109970.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1524783600000,
+                "amount": 190752.63
+            },
+            {
+                "time": 1524870000000,
+                "amount": 142063.95
+            },
+            {
+                "time": 1524956400000,
+                "amount": 124819.85
+            },
+            {
+                "time": 1525042800000,
+                "amount": 131839.89
+            },
+            {
+                "time": 1525129200000,
+                "amount": 40526.92
+            },
+            {
+                "time": 1525215600000,
+                "amount": 175662.72
+            },
+            {
+                "time": 1525302000000,
+                "amount": 3350.46
+            },
+            {
+                "time": 1525388400000,
+                "amount": 133108.27
+            },
+            {
+                "time": 1525474800000,
+                "amount": 121203.95
+            },
+            {
+                "time": 1525561200000,
+                "amount": 168970.68
+            },
+            {
+                "time": 1525647600000,
+                "amount": 76319.01
+            },
+            {
+                "time": 1525734000000,
+                "amount": 134778.5
+            },
+            {
+                "time": 1525820400000,
+                "amount": 152354.6
+            },
+            {
+                "time": 1525906800000,
+                "amount": 101552.98
+            },
+            {
+                "time": 1525993200000,
+                "amount": 57132.49
+            },
+            {
+                "time": 1526079600000,
+                "amount": 153904.03
+            },
+            {
+                "time": 1526166000000,
+                "amount": 103739.57
+            },
+            {
+                "time": 1526252400000,
+                "amount": 91526.66
+            },
+            {
+                "time": 1526338800000,
+                "amount": 118228.33
+            },
+            {
+                "time": 1526425200000,
+                "amount": 142092.6
+            },
+            {
+                "time": 1526511600000,
+                "amount": 52866.41
+            },
+            {
+                "time": 1526598000000,
+                "amount": 69655.22
+            },
+            {
+                "time": 1526684400000,
+                "amount": 196582.1
+            },
+            {
+                "time": 1526770800000,
+                "amount": 98446.87
+            },
+            {
+                "time": 1526857200000,
+                "amount": 189085.09
+            },
+            {
+                "time": 1526943600000,
+                "amount": 161117.95
+            },
+            {
+                "time": 1527030000000,
+                "amount": 139367.59
+            },
+            {
+                "time": 1527116400000,
+                "amount": 156056.93
+            },
+            {
+                "time": 1527202800000,
+                "amount": 180708.96
+            },
+            {
+                "time": 1527289200000,
+                "amount": 87666.99
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "team_market_percent": "0.1",
+        "ico_date": "2013-04-14",
+        "vertical": null,
+        "team": "Mark Cuban, Mark Coinberg",
+        "team_rating": 3,
+        "needs_blockchain": true,
+        "countries_ico_available": "Mauritius, Zambia, Honduras",
+        "scam_sale_probability": "9.0",
+        "smart_money_investors": "Mark Cuban",
+        "mining_difficulty": 19,
+        "arbitrage_activity": 98,
+        "created_at": "2018-02-11T18:31:23.556Z",
+        "updated_at": "2018-02-11T18:31:23.556Z",
+        "name": "Bitcoin Gold",
+        "json_data": null,
+        "link_to_wp": "Bitcoin Gold.com",
+        "number_of_coins_issued": "16918261.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "Bitcoin Gold.com",
+        "coins_issued": "16918261.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1527375600000,
+                "amount": 188188.38
+            },
+            {
+                "time": 1527462000000,
+                "amount": 157329.48
+            },
+            {
+                "time": 1527548400000,
+                "amount": 22657.13
+            },
+            {
+                "time": 1527634800000,
+                "amount": 89226.51
+            },
+            {
+                "time": 1527721200000,
+                "amount": 890.45
+            },
+            {
+                "time": 1527807600000,
+                "amount": 83652.67
+            },
+            {
+                "time": 1527894000000,
+                "amount": 129671.26
+            },
+            {
+                "time": 1527980400000,
+                "amount": 77481.67
+            },
+            {
+                "time": 1528066800000,
+                "amount": 15106.16
+            },
+            {
+                "time": 1528153200000,
+                "amount": 92909.22
+            },
+            {
+                "time": 1528239600000,
+                "amount": 26352.51
+            },
+            {
+                "time": 1528326000000,
+                "amount": 43725.36
+            },
+            {
+                "time": 1528412400000,
+                "amount": 114386.69
+            },
+            {
+                "time": 1528498800000,
+                "amount": 170420.94
+            },
+            {
+                "time": 1528585200000,
+                "amount": 70515.85
+            },
+            {
+                "time": 1528671600000,
+                "amount": 189285.06
+            },
+            {
+                "time": 1528758000000,
+                "amount": 95984.4
+            },
+            {
+                "time": 1528844400000,
+                "amount": 162097.95
+            },
+            {
+                "time": 1528930800000,
+                "amount": 168379.46
+            },
+            {
+                "time": 1529017200000,
+                "amount": 127998.39
+            },
+            {
+                "time": 1529103600000,
+                "amount": 78525.75
+            },
+            {
+                "time": 1529190000000,
+                "amount": 50650.7
+            },
+            {
+                "time": 1529276400000,
+                "amount": 121702.5
+            },
+            {
+                "time": 1529362800000,
+                "amount": 63055.4
+            },
+            {
+                "time": 1529449200000,
+                "amount": 134794.62
+            },
+            {
+                "time": 1529535600000,
+                "amount": 41145.19
+            },
+            {
+                "time": 1529622000000,
+                "amount": 188922.32
+            },
+            {
+                "time": 1529708400000,
+                "amount": 102646.55
+            },
+            {
+                "time": 1529794800000,
+                "amount": 156587.14
+            },
+            {
+                "time": 1529881200000,
+                "amount": 68524.34
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "team_market_percent": "0.22",
+        "ico_date": "2013-06-12",
+        "vertical": null,
+        "team": "Mark Coinberg, Kim Chen Coin, Paris Hilton, Anonymous",
+        "team_rating": 5,
+        "needs_blockchain": true,
+        "countries_ico_available": "Congo, Falkland Islands (Malvinas), Argentina",
+        "scam_sale_probability": "0.0",
+        "smart_money_investors": "50 Cent",
+        "mining_difficulty": 59,
+        "arbitrage_activity": 24,
+        "created_at": "2018-02-11T18:31:23.579Z",
+        "updated_at": "2018-02-11T18:31:23.579Z",
+        "name": "Qtum",
+        "json_data": null,
+        "link_to_wp": "Qtum.com",
+        "number_of_coins_issued": "100374372.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "Qtum.com",
+        "coins_issued": "100374372.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1529967600000,
+                "amount": 155410.37
+            },
+            {
+                "time": 1530054000000,
+                "amount": 180658.4
+            },
+            {
+                "time": 1530140400000,
+                "amount": 85031.96
+            },
+            {
+                "time": 1530226800000,
+                "amount": 99822.88
+            },
+            {
+                "time": 1530313200000,
+                "amount": 53128.36
+            },
+            {
+                "time": 1530399600000,
+                "amount": 64754.04
+            },
+            {
+                "time": 1530486000000,
+                "amount": 199446.63
+            },
+            {
+                "time": 1530572400000,
+                "amount": 60192.76
+            },
+            {
+                "time": 1530658800000,
+                "amount": 156403.32
+            },
+            {
+                "time": 1530745200000,
+                "amount": 177000.08
+            },
+            {
+                "time": 1530831600000,
+                "amount": 39020.32
+            },
+            {
+                "time": 1530918000000,
+                "amount": 166448.51
+            },
+            {
+                "time": 1531004400000,
+                "amount": 189306.53
+            },
+            {
+                "time": 1531090800000,
+                "amount": 140047.27
+            },
+            {
+                "time": 1531177200000,
+                "amount": 75414.04
+            },
+            {
+                "time": 1531263600000,
+                "amount": 53413.28
+            },
+            {
+                "time": 1531350000000,
+                "amount": 150506.82
+            },
+            {
+                "time": 1531436400000,
+                "amount": 43327.87
+            },
+            {
+                "time": 1531522800000,
+                "amount": 181050.6
+            },
+            {
+                "time": 1531609200000,
+                "amount": 161684.61
+            },
+            {
+                "time": 1531695600000,
+                "amount": 77971.52
+            },
+            {
+                "time": 1531782000000,
+                "amount": 156165.86
+            },
+            {
+                "time": 1531868400000,
+                "amount": 129202.56
+            },
+            {
+                "time": 1531954800000,
+                "amount": 93172.83
+            },
+            {
+                "time": 1532041200000,
+                "amount": 126127.08
+            },
+            {
+                "time": 1532127600000,
+                "amount": 151627.78
+            },
+            {
+                "time": 1532214000000,
+                "amount": 8338.23
+            },
+            {
+                "time": 1532300400000,
+                "amount": 199267.7
+            },
+            {
+                "time": 1532386800000,
+                "amount": 192323.9
+            },
+            {
+                "time": 1532473200000,
+                "amount": 135203.42
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "team_market_percent": "0.47",
+        "ico_date": "2015-07-26",
+        "vertical": null,
+        "team": "Mark Cuban, Mark Coinberg",
+        "team_rating": 1,
+        "needs_blockchain": true,
+        "countries_ico_available": "Mauritania, Greenland, Gambia",
+        "scam_sale_probability": "4.0",
+        "smart_money_investors": "Chuck Norris",
+        "mining_difficulty": 59,
+        "arbitrage_activity": 61,
+        "created_at": "2018-02-11T18:31:23.609Z",
+        "updated_at": "2018-02-11T18:31:23.609Z",
+        "name": "VeChain",
+        "json_data": null,
+        "link_to_wp": "VeChain.com",
+        "number_of_coins_issued": "873378637.0",
+        "coin_release_date": "2018-02-11",
+        "whitepaper_link": "VeChain.com",
+        "coins_issued": "873378637.0",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1532559600000,
+                "amount": 64027.41
+            },
+            {
+                "time": 1532646000000,
+                "amount": 168138.13
+            },
+            {
+                "time": 1532732400000,
+                "amount": 88630.47
+            },
+            {
+                "time": 1532818800000,
+                "amount": 53663.19
+            },
+            {
+                "time": 1532905200000,
+                "amount": 60101.76
+            },
+            {
+                "time": 1532991600000,
+                "amount": 60582
+            },
+            {
+                "time": 1533078000000,
+                "amount": 176384.33
+            },
+            {
+                "time": 1533164400000,
+                "amount": 188524.96
+            },
+            {
+                "time": 1533250800000,
+                "amount": 8311.49
+            },
+            {
+                "time": 1533337200000,
+                "amount": 136096.03
+            },
+            {
+                "time": 1533423600000,
+                "amount": 40214.52
+            },
+            {
+                "time": 1533510000000,
+                "amount": 174946.76
+            },
+            {
+                "time": 1533596400000,
+                "amount": 115595.38
+            },
+            {
+                "time": 1533682800000,
+                "amount": 17821.73
+            },
+            {
+                "time": 1533769200000,
+                "amount": 11042.56
+            },
+            {
+                "time": 1533855600000,
+                "amount": 109923.3
+            },
+            {
+                "time": 1533942000000,
+                "amount": 177405.44
+            },
+            {
+                "time": 1534028400000,
+                "amount": 168006.12
+            },
+            {
+                "time": 1534114800000,
+                "amount": 7792
+            },
+            {
+                "time": 1534201200000,
+                "amount": 177711.09
+            },
+            {
+                "time": 1534287600000,
+                "amount": 113831.86
+            },
+            {
+                "time": 1534374000000,
+                "amount": 66980.54
+            },
+            {
+                "time": 1534460400000,
+                "amount": 72411.71
+            },
+            {
+                "time": 1534546800000,
+                "amount": 53367.51
+            },
+            {
+                "time": 1534633200000,
+                "amount": 188369.93
+            },
+            {
+                "time": 1534719600000,
+                "amount": 10306.06
+            },
+            {
+                "time": 1534806000000,
+                "amount": 122753.82
+            },
+            {
+                "time": 1534892400000,
+                "amount": 36497.63
+            },
+            {
+                "time": 1534978800000,
+                "amount": 130981.4
+            },
+            {
+                "time": 1535065200000,
+                "amount": 18277.25
+            }
+        ]
+    }
 ]
