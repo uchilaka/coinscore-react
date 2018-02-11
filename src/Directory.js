@@ -44,7 +44,9 @@ class Directory extends Component {
 
   componentDidMount() {
     // Production data source: 'http://coinscore.co/currencies'
-    fetch('https://uchilaka.github.io/coinscore-react/res/sample-data.json', { method: 'GET', headers: {} })
+    //const URL = 'https://uchilaka.github.io/coinscore-react/res/sample-data.json';
+    const URL = '/res/sample-data.json';
+    fetch(URL, { method: 'GET', headers: {} })
       .then(response => {
         return response.json();
       })
@@ -54,10 +56,14 @@ class Directory extends Component {
         // do some parsing 
         const parsedData = json.map((item, index) => {
           item.key = index + 1;
-          // figure out trend 
-          const stats = item.stats.slice(0), first = stats.shift(), last = stats.pop();
-          //console.warn('Cloned stats -> ', stats);
-          item.trend = first.amount > last.amount ? 'down' : (first.amount < last.amount ? 'up' : 'flat');
+          if (item.stats) {
+            // figure out trend 
+            const stats = item.stats.slice(0), first = stats.shift(), last = stats.pop();
+            //console.warn('Cloned stats -> ', stats);
+            item.trend = first.amount > last.amount ? 'down' : (first.amount < last.amount ? 'up' : 'flat');
+          } else {
+            item.trend = 'flat';
+          }
           return item;
         });
 

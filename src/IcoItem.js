@@ -1,8 +1,7 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+//import PropTypes from 'prop-types';
+
 import {
-    List,
-    //Icon,
     Label,
     Popup,
     Button,
@@ -16,54 +15,15 @@ import moment from 'moment';
 import { KitIcon } from './Icons';
 //import { ic_trending_flat, ic_trending_up, ic_trending_down } from 'react-icons-kit/md';
 
-import IcoHeadline from './IcoHeadline';
 import { loadTrendingIcon } from './utils';
 
 //import ReactIntl from 'react-intl';
 
 import { userHasSelectedIco } from './redux/factory';
 
-var IcoListItems = (props) => {
-    const { list, dispatch } = props;
-    console.info('Props -> @Draft2IcoListItems', props);
-    if (!list) return null;
-
-    const li = list.map(ico => {
-        return (
-            <List.Item key={ico.key}>
-
-                <List.Content floated="right">
-
-                    <LineChart width={200} height={50} data={ico.stats}>
-                        <Line type='monotone' dataKey='amount' stroke='#8884d8' strokeWidth={2} />
-                    </LineChart>
-                    {/* 
-                    <a href={`http://${ico.whitepaper_link}`} target="_blank">
-                        <Icon name="newspaper" />
-                    </a>
-                    */}
-                </List.Content>
-                <List.Content>
-                    {/* More about using the number formattter: http://numeraljs.com/ */}
-                    <List.Header as="h2">
-                        <IcoHeadline data={ico} />
-                        <Button icon="expand" size="mini" basic onClick={() => dispatch(userHasSelectedIco(ico))} />
-                    </List.Header>
-
-                    <Popup inverted position="bottom center" trigger={<strong>{ico.team}</strong>} content={<div>ICO Team</div>} />
-                    &nbsp;<Popup inverted position="bottom center" trigger={<span>{moment(ico.ico_date).fromNow()}</span>} content={<div>ICO Date</div>} />
-
-                </List.Content>
-            </List.Item>
-        );
-    });
-    return (
-        <List size="huge" divided verticalAlign={'middle'}>{li}</List>
-    );
+const selectColorForScore = (rating) => {
+    return rating < 3 ? "red" : (rating < 7 ? "orange" : "green")
 }
-IcoListItems.propTypes = {
-    dispatch: PropTypes.func.isRequired
-};
 
 var IcoListTable = (props) => {
     const { list, dispatch } = props;
@@ -74,7 +34,9 @@ var IcoListTable = (props) => {
         return (
             <Table.Row key={data.key}>
                 <Table.Cell singleLine>
-                    <Popup inverted position="bottom center" trigger={<Label color="orange" size="big" className="badge" content={data.team_rating} />} content={<div>Our Score</div>} />
+                    <Popup inverted position="bottom center" trigger={(
+                        <Label color={selectColorForScore(data.team_rating)} size="big" className="badge" content={data.team_rating} />
+                    )} content={<div>Our Score</div>} />
                 </Table.Cell>
                 <Table.Cell>
                     <Header as='h4'>
