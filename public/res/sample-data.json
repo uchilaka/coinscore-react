@@ -1,0 +1,590 @@
+[
+    {
+        "id": 1,
+        "team_market_percent": "5.0",
+        "ico_date": "2017-02-10",
+        "vertical": "Utilities",
+        "team": "Doge2.0",
+        "team_rating": 5,
+        "needs_blockchain": true,
+        "countries_ico_available": "USA, Canada",
+        "scam_sale_probability": "1.0",
+        "smart_money_investors": "No",
+        "mining_difficulty": null,
+        "arbitrage_activity": null,
+        "created_at": "2015-02-10T20:58:21.000Z",
+        "updated_at": "2018-02-10T20:58:21.000Z",
+        "name": "DogeCoin",
+        "json_data": null,
+        "link_to_wp": "www.dogecoin.com",
+        "number_of_coins_issued": "113146970858",
+        "coin_release_date": null,
+        "whitepaper_link": "www.dogecoin.com",
+        "coins_issued": "113146970858",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1483315200000,
+                "amount": 78531.02
+            },
+            {
+                "time": 1483401600000,
+                "amount": 27910.11
+            },
+            {
+                "time": 1483488000000,
+                "amount": 43129.12
+            },
+            {
+                "time": 1483574400000,
+                "amount": 113108
+            },
+            {
+                "time": 1483660800000,
+                "amount": 128641.99
+            },
+            {
+                "time": 1483747200000,
+                "amount": 17229.41
+            },
+            {
+                "time": 1483833600000,
+                "amount": 108810.16
+            },
+            {
+                "time": 1483920000000,
+                "amount": 178176.39
+            },
+            {
+                "time": 1484006400000,
+                "amount": 108439.57
+            },
+            {
+                "time": 1484092800000,
+                "amount": 38306.7
+            },
+            {
+                "time": 1484179200000,
+                "amount": 42228.95
+            },
+            {
+                "time": 1484265600000,
+                "amount": 128260.59
+            },
+            {
+                "time": 1484352000000,
+                "amount": 81123.83
+            },
+            {
+                "time": 1484438400000,
+                "amount": 105188.35
+            },
+            {
+                "time": 1484524800000,
+                "amount": 167940.22
+            },
+            {
+                "time": 1484611200000,
+                "amount": 99089.41
+            },
+            {
+                "time": 1484697600000,
+                "amount": 156107.97
+            },
+            {
+                "time": 1484784000000,
+                "amount": 13621.09
+            },
+            {
+                "time": 1484870400000,
+                "amount": 133116.62
+            },
+            {
+                "time": 1484956800000,
+                "amount": 16077.81
+            },
+            {
+                "time": 1485043200000,
+                "amount": 153229.63
+            },
+            {
+                "time": 1485129600000,
+                "amount": 167968.43
+            },
+            {
+                "time": 1485216000000,
+                "amount": 84081
+            },
+            {
+                "time": 1485302400000,
+                "amount": 52287.59
+            },
+            {
+                "time": 1485388800000,
+                "amount": 192016.92
+            },
+            {
+                "time": 1485475200000,
+                "amount": 126894.57
+            },
+            {
+                "time": 1485561600000,
+                "amount": 159867.89
+            },
+            {
+                "time": 1485648000000,
+                "amount": 24848.13
+            },
+            {
+                "time": 1485734400000,
+                "amount": 49436.35
+            },
+            {
+                "time": 1485820800000,
+                "amount": 98975.69
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "team_market_percent": "0.21",
+        "ico_date": "2017-01-11",
+        "vertical": "Animals",
+        "team": "Catturri",
+        "team_rating": 1,
+        "needs_blockchain": true,
+        "countries_ico_available": "China, South Korea",
+        "scam_sale_probability": "80.0",
+        "smart_money_investors": "No",
+        "mining_difficulty": null,
+        "arbitrage_activity": null,
+        "created_at": "2015-12-10T20:18:21.000Z",
+        "updated_at": "2018-02-10T20:58:21.000Z",
+        "name": "Cat Coins",
+        "json_data": null,
+        "link_to_wp": "www.dogecoin.com",
+        "number_of_coins_issued": "113146970858",
+        "coin_release_date": null,
+        "whitepaper_link": "www.catcoins.co",
+        "coins_issued": "9000000",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1483315200000,
+                "amount": 89650.45
+            },
+            {
+                "time": 1483401600000,
+                "amount": 112450
+            },
+            {
+                "time": 1483488000000,
+                "amount": 190965.05
+            },
+            {
+                "time": 1483574400000,
+                "amount": 91153.78
+            },
+            {
+                "time": 1483660800000,
+                "amount": 153145.38
+            },
+            {
+                "time": 1483747200000,
+                "amount": 112035.88
+            },
+            {
+                "time": 1483833600000,
+                "amount": 36148.28
+            },
+            {
+                "time": 1483920000000,
+                "amount": 138791.85
+            },
+            {
+                "time": 1484006400000,
+                "amount": 48441.92
+            },
+            {
+                "time": 1484092800000,
+                "amount": 194670.15
+            },
+            {
+                "time": 1484179200000,
+                "amount": 75864.99
+            },
+            {
+                "time": 1484265600000,
+                "amount": 185651.51
+            },
+            {
+                "time": 1484352000000,
+                "amount": 136373.23
+            },
+            {
+                "time": 1484438400000,
+                "amount": 35452.08
+            },
+            {
+                "time": 1484524800000,
+                "amount": 102876.63
+            },
+            {
+                "time": 1484611200000,
+                "amount": 7575.16
+            },
+            {
+                "time": 1484697600000,
+                "amount": 124802.73
+            },
+            {
+                "time": 1484784000000,
+                "amount": 25593.46
+            },
+            {
+                "time": 1484870400000,
+                "amount": 7504.03
+            },
+            {
+                "time": 1484956800000,
+                "amount": 144550.25
+            },
+            {
+                "time": 1485043200000,
+                "amount": 150768.2
+            },
+            {
+                "time": 1485129600000,
+                "amount": 10502.09
+            },
+            {
+                "time": 1485216000000,
+                "amount": 189354.55
+            },
+            {
+                "time": 1485302400000,
+                "amount": 108661.95
+            },
+            {
+                "time": 1485388800000,
+                "amount": 173877.16
+            },
+            {
+                "time": 1485475200000,
+                "amount": 136047.53
+            },
+            {
+                "time": 1485561600000,
+                "amount": 105178.26
+            },
+            {
+                "time": 1485648000000,
+                "amount": 68152.22
+            },
+            {
+                "time": 1485734400000,
+                "amount": 125725.69
+            },
+            {
+                "time": 1485820800000,
+                "amount": 157559.38
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "team_market_percent": "5.0",
+        "ico_date": "2017-02-10",
+        "vertical": "Utilities",
+        "team": "Doge2.0",
+        "team_rating": 5,
+        "needs_blockchain": true,
+        "countries_ico_available": "USA, Canada",
+        "scam_sale_probability": "1.0",
+        "smart_money_investors": "No",
+        "mining_difficulty": null,
+        "arbitrage_activity": null,
+        "created_at": "2015-02-10T20:58:21.000Z",
+        "updated_at": "2018-02-10T20:58:21.000Z",
+        "name": "DogeCoin",
+        "json_data": null,
+        "link_to_wp": "www.dogecoin.com",
+        "number_of_coins_issued": "113146970858",
+        "coin_release_date": null,
+        "whitepaper_link": "www.dogecoin.com",
+        "coins_issued": "113146970858",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1483315200000,
+                "amount": 71168.71
+            },
+            {
+                "time": 1483401600000,
+                "amount": 121420.3
+            },
+            {
+                "time": 1483488000000,
+                "amount": 88055.23
+            },
+            {
+                "time": 1483574400000,
+                "amount": 88669.05
+            },
+            {
+                "time": 1483660800000,
+                "amount": 24431.05
+            },
+            {
+                "time": 1483747200000,
+                "amount": 78376.05
+            },
+            {
+                "time": 1483833600000,
+                "amount": 125951.38
+            },
+            {
+                "time": 1483920000000,
+                "amount": 124367.66
+            },
+            {
+                "time": 1484006400000,
+                "amount": 146552.26
+            },
+            {
+                "time": 1484092800000,
+                "amount": 196248.83
+            },
+            {
+                "time": 1484179200000,
+                "amount": 32317.38
+            },
+            {
+                "time": 1484265600000,
+                "amount": 68443.93
+            },
+            {
+                "time": 1484352000000,
+                "amount": 6719.81
+            },
+            {
+                "time": 1484438400000,
+                "amount": 105424.81
+            },
+            {
+                "time": 1484524800000,
+                "amount": 47136.93
+            },
+            {
+                "time": 1484611200000,
+                "amount": 199658.66
+            },
+            {
+                "time": 1484697600000,
+                "amount": 26899.09
+            },
+            {
+                "time": 1484784000000,
+                "amount": 178803.7
+            },
+            {
+                "time": 1484870400000,
+                "amount": 197377.75
+            },
+            {
+                "time": 1484956800000,
+                "amount": 177858.74
+            },
+            {
+                "time": 1485043200000,
+                "amount": 73110.42
+            },
+            {
+                "time": 1485129600000,
+                "amount": 34770.53
+            },
+            {
+                "time": 1485216000000,
+                "amount": 167163.87
+            },
+            {
+                "time": 1485302400000,
+                "amount": 196248.29
+            },
+            {
+                "time": 1485388800000,
+                "amount": 56726.41
+            },
+            {
+                "time": 1485475200000,
+                "amount": 199324.05
+            },
+            {
+                "time": 1485561600000,
+                "amount": 82349.76
+            },
+            {
+                "time": 1485648000000,
+                "amount": 170476.33
+            },
+            {
+                "time": 1485734400000,
+                "amount": 89343.64
+            },
+            {
+                "time": 1485820800000,
+                "amount": 1057.02
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "team_market_percent": "0.21",
+        "ico_date": "2017-01-11",
+        "vertical": "Animals",
+        "team": "Catturri",
+        "team_rating": 1,
+        "needs_blockchain": true,
+        "countries_ico_available": "China, South Korea",
+        "scam_sale_probability": "80.0",
+        "smart_money_investors": "No",
+        "mining_difficulty": null,
+        "arbitrage_activity": null,
+        "created_at": "2015-12-10T20:18:21.000Z",
+        "updated_at": "2018-02-10T20:58:21.000Z",
+        "name": "Cat Coins",
+        "json_data": null,
+        "link_to_wp": "www.dogecoin.com",
+        "number_of_coins_issued": "113146970858",
+        "coin_release_date": null,
+        "whitepaper_link": "www.catcoins.co",
+        "coins_issued": "9000000",
+        "coin_image": null,
+        "logo": null,
+        "stats": [
+            {
+                "time": 1483315200000,
+                "amount": 188920.2
+            },
+            {
+                "time": 1483401600000,
+                "amount": 119814.8
+            },
+            {
+                "time": 1483488000000,
+                "amount": 182699.01
+            },
+            {
+                "time": 1483574400000,
+                "amount": 140222.21
+            },
+            {
+                "time": 1483660800000,
+                "amount": 72800.72
+            },
+            {
+                "time": 1483747200000,
+                "amount": 129167.51
+            },
+            {
+                "time": 1483833600000,
+                "amount": 10606.72
+            },
+            {
+                "time": 1483920000000,
+                "amount": 187972.25
+            },
+            {
+                "time": 1484006400000,
+                "amount": 55675.12
+            },
+            {
+                "time": 1484092800000,
+                "amount": 31411.62
+            },
+            {
+                "time": 1484179200000,
+                "amount": 49213.35
+            },
+            {
+                "time": 1484265600000,
+                "amount": 7329.66
+            },
+            {
+                "time": 1484352000000,
+                "amount": 189148.64
+            },
+            {
+                "time": 1484438400000,
+                "amount": 133081.11
+            },
+            {
+                "time": 1484524800000,
+                "amount": 149906.7
+            },
+            {
+                "time": 1484611200000,
+                "amount": 93227.51
+            },
+            {
+                "time": 1484697600000,
+                "amount": 198941.82
+            },
+            {
+                "time": 1484784000000,
+                "amount": 50441.22
+            },
+            {
+                "time": 1484870400000,
+                "amount": 34059.21
+            },
+            {
+                "time": 1484956800000,
+                "amount": 98905.09
+            },
+            {
+                "time": 1485043200000,
+                "amount": 138566.68
+            },
+            {
+                "time": 1485129600000,
+                "amount": 188924.78
+            },
+            {
+                "time": 1485216000000,
+                "amount": 61980.55
+            },
+            {
+                "time": 1485302400000,
+                "amount": 142558.95
+            },
+            {
+                "time": 1485388800000,
+                "amount": 163067.67
+            },
+            {
+                "time": 1485475200000,
+                "amount": 182862.38
+            },
+            {
+                "time": 1485561600000,
+                "amount": 27119.23
+            },
+            {
+                "time": 1485648000000,
+                "amount": 60395.12
+            },
+            {
+                "time": 1485734400000,
+                "amount": 55709.56
+            },
+            {
+                "time": 1485820800000,
+                "amount": 88551.18
+            }
+        ]
+    }
+]
