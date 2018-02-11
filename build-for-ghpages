@@ -7,7 +7,7 @@ fi
 cp -v public/index.ghpages.html public/index.html &&\
 yarn build &&\
 rm -Rf docs && mv -v build docs &&\
+cp -v public/index.standalone.html public/index.html &&\
 git add --all &&\
 git commit -m "Pushing update to github pages" &&\
 git push
-cp -v public/index.standalone.html public/index.html
