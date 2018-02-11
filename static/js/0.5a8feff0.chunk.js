@@ -1,2 +1,0 @@
-webpackJsonp([0],{1172:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=n(0),o=n.n(a),r=n(90),u=function(e){return o.a.createElement(r.b,{text:!0},o.a.createElement("h2",null,"Abount CoinStore"),o.a.createElement("p",null,"Some information about this Startup"))};t.default=u}});
-//# sourceMappingURL=0.5a8feff0.chunk.js.map
