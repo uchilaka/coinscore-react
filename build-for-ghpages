@@ -1,2 +1,7 @@
 #!/bin/bash 
+if ! [[ -d ./build ]]; then 
+    echo "You are either not running in the root directory of your project, or you have not yet build the static files. Run \"yarn build\" to build the static code for the project, and try again."
+    exit 1
+fi
+# All set!
 yarn build && mv -v build docs
