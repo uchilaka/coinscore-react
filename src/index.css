@@ -10,6 +10,9 @@ body #topbar img.logo {
   max-height: 30px;
   width: auto;
 }
+body .badge {
+  border-radius: 50% !important;
+}
 body .custom-label {
   font-weight: 100;
   font-size: 12px;

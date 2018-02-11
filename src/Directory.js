@@ -44,7 +44,7 @@ class Directory extends Component {
 
   componentDidMount() {
     // Production data source: 'http://coinscore.co/currencies'
-    fetch('/res/sample-data.json', { method: 'GET', headers: {} })
+    fetch('https://uchilaka.github.io/coinscore-react/res/sample-data.json', { method: 'GET', headers: {} })
       .then(response => {
         return response.json();
       })

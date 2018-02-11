@@ -25,10 +25,14 @@
     "build": "react-scripts build",
     "stage": "./build-for-ghpages",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
+    "gh-pages": "^1.1.0",
     "jsonfile": "^4.0.0",
     "mocha": "^5.0.0"
-  }
+  },
+  "homepage": "https://uchilaka.github.io/coinscore-react/"
 }
