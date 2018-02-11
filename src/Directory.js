@@ -131,7 +131,7 @@ class Directory extends Component {
           {/* Search bar */}
           <Input size="huge" fluid={true} loading={false}
             icon={{ name: 'search', circular: true, link: true }}
-            placeholder="Find an ICO"
+            placeholder="Find a coin"
             onChange={this.handleSearchInput.bind(this)} />
 
           {/* ICO search results */}
